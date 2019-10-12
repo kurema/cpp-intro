@@ -3,476 +3,476 @@
 \contentsline {chapter}{\numberline {第2章}C++の実行}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}\hyperref [ch0201]{C++の実行の仕組み} }{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}\hyperref [ch0202]{簡単な1つのソースファイルからなるプログラムの実行} }{3}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}\hyperref [ch020201]{サンプルコード} }{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}\hyperref [ch020202]{コンパイル} }{5}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.1}\hyperref [ch020201]{サンプルコード} }{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}\hyperref [ch020202]{コンパイル} }{4}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}\hyperref [ch020203]{実行} }{5}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}\hyperref [ch0203]{GCC: C++コンパイラー} }{6}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}\hyperref [ch020301]{コンパイラーオプション} }{6}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}\hyperref [ch020302]{ヘッダーファイルの省略} }{7}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}\hyperref [ch020303]{コンパイル済みヘッダー(precompiled header)} }{9}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}\hyperref [ch0204]{Make: ビルドシステム} }{11}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}\hyperref [ch020401]{コンパイルと実行のまとめ} }{11}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}\hyperref [ch020402]{依存関係を解決するビルドシステム} }{12}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}\hyperref [ch020403]{依存関係を記述するルール} }{13}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}\hyperref [ch020404]{コメント} }{16}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}\hyperref [ch020405]{変数} }{16}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {2.4.6}\hyperref [ch020406]{自動変数} }{17}{subsection.2.4.6}
-\contentsline {subsubsection}{\hyperref [ch02040601]{\texttt {\$@} ターゲット} }{17}{section*.3}
-\contentsline {subsubsection}{\hyperref [ch02040602]{\texttt {\$\textless {}} 最初の事前要件} }{17}{section*.4}
-\contentsline {subsubsection}{\hyperref [ch02040603]{\texttt {\$\^{}} すべての事前要件} }{17}{section*.5}
-\contentsline {subsubsection}{\hyperref [ch02040604]{自動変数の組み合わせ} }{18}{section*.6}
-\contentsline {subsection}{\numberline {2.4.7}\hyperref [ch020407]{PHONYターゲット} }{18}{subsection.2.4.7}
-\contentsline {section}{\numberline {2.5}\hyperref [ch0205]{入門用の環境構築} }{19}{section.2.5}
-\contentsline {chapter}{\numberline {第3章}C++ヒッチハイクガイド}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}\hyperref [ch0301]{最小のコード} }{21}{section.3.1}
-\contentsline {section}{\numberline {3.2}\hyperref [ch0302]{標準出力} }{22}{section.3.2}
-\contentsline {section}{\numberline {3.3}\hyperref [ch0303]{文字列} }{24}{section.3.3}
-\contentsline {section}{\numberline {3.4}\hyperref [ch0304]{整数と浮動小数点数} }{25}{section.3.4}
-\contentsline {section}{\numberline {3.5}\hyperref [ch0305]{変数(variable)} }{27}{section.3.5}
-\contentsline {section}{\numberline {3.6}\hyperref [ch0306]{関数(function)} }{31}{section.3.6}
-\contentsline {section}{\numberline {3.7}\hyperref [ch0307]{本当の関数} }{34}{section.3.7}
-\contentsline {chapter}{\numberline {第4章}デバッグ：コンパイルエラーメッセージの読み方}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}\hyperref [ch0401]{文法エラー} }{38}{section.4.1}
-\contentsline {section}{\numberline {4.2}\hyperref [ch0402]{意味エラー} }{44}{section.4.2}
-\contentsline {section}{\numberline {4.3}\hyperref [ch0403]{コンパイラーのバグ} }{45}{section.4.3}
-\contentsline {chapter}{\numberline {第5章}条件分岐の果てのレストラン}{47}{chapter.5}
-\contentsline {section}{\numberline {5.1}\hyperref [ch0501]{複合文} }{47}{section.5.1}
-\contentsline {section}{\numberline {5.2}\hyperref [ch0502]{条件分岐} }{50}{section.5.2}
-\contentsline {section}{\numberline {5.3}\hyperref [ch0503]{条件式} }{54}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}\hyperref [ch050301]{条件とは何だろう} }{54}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}\hyperref [ch0504]{bool型} }{56}{section.5.4}
-\contentsline {section}{\numberline {5.5}\hyperref [ch0505]{bool型の演算} }{58}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}\hyperref [ch050501]{論理否定: operator !} }{58}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}\hyperref [ch050502]{同値比較: operator ==, !=} }{59}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}\hyperref [ch050503]{論理積: operator \&\&} }{60}{subsection.5.5.3}
-\contentsline {subsection}{\numberline {5.5.4}\hyperref [ch050504]{論理和: operator \textbar \textbar {}} }{61}{subsection.5.5.4}
-\contentsline {subsection}{\numberline {5.5.5}\hyperref [ch050505]{短絡評価} }{63}{subsection.5.5.5}
-\contentsline {section}{\numberline {5.6}\hyperref [ch0506]{boolの変換} }{64}{section.5.6}
-\contentsline {chapter}{\numberline {第6章}デバッグ：コンパイル警告メッセージ}{69}{chapter.6}
-\contentsline {chapter}{\numberline {第7章}最近体重が気になるあなたのための標準入力}{73}{chapter.7}
-\contentsline {section}{\numberline {7.1}\hyperref [ch0701]{これまでのおさらい} }{73}{section.7.1}
-\contentsline {section}{\numberline {7.2}\hyperref [ch0702]{標準入力} }{75}{section.7.2}
-\contentsline {section}{\numberline {7.3}\hyperref [ch0703]{リダイレクト} }{78}{section.7.3}
-\contentsline {section}{\numberline {7.4}\hyperref [ch0704]{パイプ} }{80}{section.7.4}
-\contentsline {section}{\numberline {7.5}\hyperref [ch0705]{プログラムの組み合わせ} }{81}{section.7.5}
-\contentsline {chapter}{\numberline {第8章}ループ}{83}{chapter.8}
-\contentsline {section}{\numberline {8.1}\hyperref [ch0801]{これまでのおさらい} }{83}{section.8.1}
-\contentsline {section}{\numberline {8.2}\hyperref [ch0802]{goto文} }{84}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}\hyperref [ch080201]{無限ループ} }{84}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}\hyperref [ch080202]{終了条件付きループ} }{86}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}\hyperref [ch080203]{インデックスループ} }{88}{subsection.8.2.3}
-\contentsline {section}{\numberline {8.3}\hyperref [ch0803]{while文} }{95}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}\hyperref [ch080301]{無限ループ} }{95}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}\hyperref [ch080302]{終了条件付きループ} }{97}{subsection.8.3.2}
-\contentsline {subsection}{\numberline {8.3.3}\hyperref [ch080303]{インデックスループ} }{99}{subsection.8.3.3}
-\contentsline {section}{\numberline {8.4}\hyperref [ch0804]{for文} }{103}{section.8.4}
-\contentsline {section}{\numberline {8.5}\hyperref [ch0805]{do文} }{107}{section.8.5}
-\contentsline {section}{\numberline {8.6}\hyperref [ch0806]{break文} }{108}{section.8.6}
-\contentsline {section}{\numberline {8.7}\hyperref [ch0807]{continue文} }{109}{section.8.7}
-\contentsline {section}{\numberline {8.8}\hyperref [ch0808]{再帰関数} }{111}{section.8.8}
+\contentsline {section}{\numberline {2.4}\hyperref [ch0204]{Make: ビルドシステム} }{10}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}\hyperref [ch020401]{コンパイルと実行のまとめ} }{10}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}\hyperref [ch020402]{依存関係を解決するビルドシステム} }{10}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}\hyperref [ch020403]{依存関係を記述するルール} }{11}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}\hyperref [ch020404]{コメント} }{14}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}\hyperref [ch020405]{変数} }{14}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}\hyperref [ch020406]{自動変数} }{15}{subsection.2.4.6}
+\contentsline {subsubsection}{\hyperref [ch02040601]{\texttt {\$@} ターゲット} }{15}{section*.3}
+\contentsline {subsubsection}{\hyperref [ch02040602]{\texttt {\$\textless {}} 最初の事前要件} }{15}{section*.4}
+\contentsline {subsubsection}{\hyperref [ch02040603]{\texttt {\$\^{}} すべての事前要件} }{15}{section*.5}
+\contentsline {subsubsection}{\hyperref [ch02040604]{自動変数の組み合わせ} }{15}{section*.6}
+\contentsline {subsection}{\numberline {2.4.7}\hyperref [ch020407]{PHONYターゲット} }{16}{subsection.2.4.7}
+\contentsline {section}{\numberline {2.5}\hyperref [ch0205]{入門用の環境構築} }{17}{section.2.5}
+\contentsline {chapter}{\numberline {第3章}C++ヒッチハイクガイド}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}\hyperref [ch0301]{最小のコード} }{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}\hyperref [ch0302]{標準出力} }{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}\hyperref [ch0303]{文字列} }{22}{section.3.3}
+\contentsline {section}{\numberline {3.4}\hyperref [ch0304]{整数と浮動小数点数} }{22}{section.3.4}
+\contentsline {section}{\numberline {3.5}\hyperref [ch0305]{変数(variable)} }{25}{section.3.5}
+\contentsline {section}{\numberline {3.6}\hyperref [ch0306]{関数(function)} }{28}{section.3.6}
+\contentsline {section}{\numberline {3.7}\hyperref [ch0307]{本当の関数} }{30}{section.3.7}
+\contentsline {chapter}{\numberline {第4章}デバッグ：コンパイルエラーメッセージの読み方}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}\hyperref [ch0401]{文法エラー} }{34}{section.4.1}
+\contentsline {section}{\numberline {4.2}\hyperref [ch0402]{意味エラー} }{39}{section.4.2}
+\contentsline {section}{\numberline {4.3}\hyperref [ch0403]{コンパイラーのバグ} }{40}{section.4.3}
+\contentsline {chapter}{\numberline {第5章}条件分岐の果てのレストラン}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}\hyperref [ch0501]{複合文} }{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}\hyperref [ch0502]{条件分岐} }{44}{section.5.2}
+\contentsline {section}{\numberline {5.3}\hyperref [ch0503]{条件式} }{47}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}\hyperref [ch050301]{条件とは何だろう} }{47}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}\hyperref [ch0504]{bool型} }{49}{section.5.4}
+\contentsline {section}{\numberline {5.5}\hyperref [ch0505]{bool型の演算} }{50}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}\hyperref [ch050501]{論理否定: operator !} }{51}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}\hyperref [ch050502]{同値比較: operator ==, !=} }{52}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}\hyperref [ch050503]{論理積: operator \&\&} }{52}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}\hyperref [ch050504]{論理和: operator \textbar \textbar {}} }{53}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}\hyperref [ch050505]{短絡評価} }{54}{subsection.5.5.5}
+\contentsline {section}{\numberline {5.6}\hyperref [ch0506]{boolの変換} }{56}{section.5.6}
+\contentsline {chapter}{\numberline {第6章}デバッグ：コンパイル警告メッセージ}{59}{chapter.6}
+\contentsline {chapter}{\numberline {第7章}最近体重が気になるあなたのための標準入力}{63}{chapter.7}
+\contentsline {section}{\numberline {7.1}\hyperref [ch0701]{これまでのおさらい} }{63}{section.7.1}
+\contentsline {section}{\numberline {7.2}\hyperref [ch0702]{標準入力} }{64}{section.7.2}
+\contentsline {section}{\numberline {7.3}\hyperref [ch0703]{リダイレクト} }{67}{section.7.3}
+\contentsline {section}{\numberline {7.4}\hyperref [ch0704]{パイプ} }{69}{section.7.4}
+\contentsline {section}{\numberline {7.5}\hyperref [ch0705]{プログラムの組み合わせ} }{70}{section.7.5}
+\contentsline {chapter}{\numberline {第8章}ループ}{73}{chapter.8}
+\contentsline {section}{\numberline {8.1}\hyperref [ch0801]{これまでのおさらい} }{73}{section.8.1}
+\contentsline {section}{\numberline {8.2}\hyperref [ch0802]{goto文} }{74}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}\hyperref [ch080201]{無限ループ} }{74}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}\hyperref [ch080202]{終了条件付きループ} }{76}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}\hyperref [ch080203]{インデックスループ} }{77}{subsection.8.2.3}
+\contentsline {section}{\numberline {8.3}\hyperref [ch0803]{while文} }{82}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}\hyperref [ch080301]{無限ループ} }{83}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}\hyperref [ch080302]{終了条件付きループ} }{84}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}\hyperref [ch080303]{インデックスループ} }{86}{subsection.8.3.3}
+\contentsline {section}{\numberline {8.4}\hyperref [ch0804]{for文} }{89}{section.8.4}
+\contentsline {section}{\numberline {8.5}\hyperref [ch0805]{do文} }{92}{section.8.5}
+\contentsline {section}{\numberline {8.6}\hyperref [ch0806]{break文} }{93}{section.8.6}
+\contentsline {section}{\numberline {8.7}\hyperref [ch0807]{continue文} }{94}{section.8.7}
+\contentsline {section}{\numberline {8.8}\hyperref [ch0808]{再帰関数} }{95}{section.8.8}
 \newpage 
-\contentsline {chapter}{\numberline {第9章}メモリーを無限に確保する}{121}{chapter.9}
-\contentsline {section}{\numberline {9.1}\hyperref [ch0901]{これまでのまとめ} }{121}{section.9.1}
-\contentsline {section}{\numberline {9.2}\hyperref [ch0902]{vector} }{122}{section.9.2}
-\contentsline {chapter}{\numberline {第10章}デバッグ：printfデバッグ}{135}{chapter.10}
-\contentsline {section}{\numberline {10.1}\hyperref [ch1001]{実践例} }{135}{section.10.1}
-\contentsline {section}{\numberline {10.2}\hyperref [ch1002]{std::cerr} }{141}{section.10.2}
-\contentsline {section}{\numberline {10.3}\hyperref [ch1003]{まとめ} }{143}{section.10.3}
-\contentsline {chapter}{\numberline {第11章}整数}{145}{chapter.11}
-\contentsline {section}{\numberline {11.1}\hyperref [ch1101]{整数リテラル} }{145}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}\hyperref [ch110101]{10進数リテラル} }{145}{subsection.11.1.1}
-\contentsline {subsection}{\numberline {11.1.2}\hyperref [ch110102]{2進数リテラル} }{146}{subsection.11.1.2}
-\contentsline {subsection}{\numberline {11.1.3}\hyperref [ch110103]{8進数リテラル} }{146}{subsection.11.1.3}
-\contentsline {subsection}{\numberline {11.1.4}\hyperref [ch110104]{16進数リテラル} }{146}{subsection.11.1.4}
-\contentsline {subsection}{\numberline {11.1.5}\hyperref [ch110105]{数値区切り} }{147}{subsection.11.1.5}
-\contentsline {section}{\numberline {11.2}\hyperref [ch1102]{整数の仕組み} }{147}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}\hyperref [ch110201]{情報の単位} }{147}{subsection.11.2.1}
-\contentsline {subsection}{\numberline {11.2.2}\hyperref [ch110202]{1バイトで表現された整数} }{148}{subsection.11.2.2}
-\contentsline {subsubsection}{\hyperref [ch11020201]{符号ビット} }{148}{section*.7}
-\contentsline {subsubsection}{\hyperref [ch11020202]{1の補数} }{149}{section*.8}
-\contentsline {subsubsection}{\hyperref [ch11020203]{2の補数} }{150}{section*.9}
-\contentsline {section}{\numberline {11.3}\hyperref [ch1103]{整数型} }{151}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}\hyperref [ch110301]{int型} }{151}{subsection.11.3.1}
-\contentsline {subsection}{\numberline {11.3.2}\hyperref [ch110302]{long int型} }{152}{subsection.11.3.2}
-\contentsline {subsection}{\numberline {11.3.3}\hyperref [ch110303]{long long int型} }{153}{subsection.11.3.3}
-\contentsline {subsection}{\numberline {11.3.4}\hyperref [ch110304]{short int型} }{153}{subsection.11.3.4}
-\contentsline {subsection}{\numberline {11.3.5}\hyperref [ch110305]{char型} }{153}{subsection.11.3.5}
-\contentsline {section}{\numberline {11.4}\hyperref [ch1104]{整数型のサイズ} }{154}{section.11.4}
-\contentsline {section}{\numberline {11.5}\hyperref [ch1105]{整数型の表現できる値の範囲} }{155}{section.11.5}
-\contentsline {section}{\numberline {11.6}\hyperref [ch1106]{整数型の変換} }{157}{section.11.6}
-\contentsline {chapter}{\numberline {第12章}浮動小数点数}{159}{chapter.12}
-\contentsline {section}{\numberline {12.1}\hyperref [ch1201]{浮動小数点数リテラル} }{161}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}\hyperref [ch120101]{10進浮動小数点数リテラル} }{161}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}\hyperref [ch120102]{10進数の仮数と指数による表記} }{161}{subsection.12.1.2}
-\contentsline {subsection}{\numberline {12.1.3}\hyperref [ch120103]{16進数の仮数と指数による表記} }{162}{subsection.12.1.3}
-\contentsline {section}{\numberline {12.2}\hyperref [ch1202]{浮動小数点数の表現と特性} }{163}{section.12.2}
-\contentsline {subsection}{\numberline {12.2.1}\hyperref [ch120201]{\texttt {+}0.0と\tmspace +\thinmuskip {.1667em}\texttt {-}0.0} }{163}{subsection.12.2.1}
-\contentsline {subsection}{\numberline {12.2.2}\hyperref [ch120202]{\texttt {+}{\(\infty \)}と\tmspace +\thinmuskip {.1667em}\texttt {-}{\(\infty \)}\tmspace +\thinmuskip {.1667em}(無限大)} }{163}{subsection.12.2.2}
-\contentsline {subsection}{\numberline {12.2.3}\hyperref [ch120203]{NaN\tmspace +\thinmuskip {.1667em}(Not a Number)} }{164}{subsection.12.2.3}
-\contentsline {subsection}{\numberline {12.2.4}\hyperref [ch120204]{有効桁数} }{164}{subsection.12.2.4}
-\contentsline {section}{\numberline {12.3}\hyperref [ch1203]{浮動小数点数同士の変換} }{165}{section.12.3}
-\contentsline {section}{\numberline {12.4}\hyperref [ch1204]{浮動小数点数と整数の変換} }{166}{section.12.4}
-\contentsline {chapter}{\numberline {第13章}名前}{167}{chapter.13}
-\contentsline {section}{\numberline {13.1}\hyperref [ch1301]{キーワード} }{167}{section.13.1}
-\contentsline {section}{\numberline {13.2}\hyperref [ch1302]{名前に使える文字} }{168}{section.13.2}
-\contentsline {section}{\numberline {13.3}\hyperref [ch1303]{宣言と定義} }{169}{section.13.3}
-\contentsline {section}{\numberline {13.4}\hyperref [ch1304]{名前空間} }{170}{section.13.4}
-\contentsline {subsection}{\numberline {13.4.1}\hyperref [ch130401]{グローバル名前空間} }{173}{subsection.13.4.1}
-\contentsline {subsection}{\numberline {13.4.2}\hyperref [ch130402]{名前空間のネスト} }{174}{subsection.13.4.2}
-\contentsline {subsection}{\numberline {13.4.3}\hyperref [ch130403]{名前空間名の別名を宣言する名前空間エイリアス} }{174}{subsection.13.4.3}
-\contentsline {subsection}{\numberline {13.4.4}\hyperref [ch130404]{名前空間名の指定を省略するusingディレクティブ} }{176}{subsection.13.4.4}
-\contentsline {subsection}{\numberline {13.4.5}\hyperref [ch130405]{名前空間を指定しなくてもよいinline名前空間} }{178}{subsection.13.4.5}
-\contentsline {section}{\numberline {13.5}\hyperref [ch1305]{型名} }{179}{section.13.5}
-\contentsline {subsection}{\numberline {13.5.1}\hyperref [ch130501]{型名の別名を宣言するエイリアス宣言} }{179}{subsection.13.5.1}
-\contentsline {section}{\numberline {13.6}\hyperref [ch1306]{スコープ} }{181}{section.13.6}
-\contentsline {chapter}{\numberline {第14章}イテレーターの基礎}{185}{chapter.14}
-\contentsline {section}{\numberline {14.1}\hyperref [ch1401]{イテレーターの取得方法} }{185}{section.14.1}
-\contentsline {section}{\numberline {14.2}\hyperref [ch1402]{イテレーターの参照する要素に対する読み書き} }{186}{section.14.2}
-\contentsline {section}{\numberline {14.3}\hyperref [ch1403]{イテレーターの参照する要素を変更} }{186}{section.14.3}
-\contentsline {section}{\numberline {14.4}\hyperref [ch1404]{イテレーターの比較} }{187}{section.14.4}
-\contentsline {section}{\numberline {14.5}\hyperref [ch1405]{最後の次の要素へのイテレーター} }{188}{section.14.5}
-\contentsline {section}{\numberline {14.6}\hyperref [ch1406]{なんでもイテレーター} }{190}{section.14.6}
-\contentsline {section}{\numberline {14.7}\hyperref [ch1407]{イテレーターと添字の範囲} }{192}{section.14.7}
-\contentsline {chapter}{\numberline {第15章}lvalueリファレンスとconst}{197}{chapter.15}
-\contentsline {section}{\numberline {15.1}\hyperref [ch1501]{lvalueリファレンス} }{197}{section.15.1}
-\contentsline {section}{\numberline {15.2}\hyperref [ch1502]{const} }{200}{section.15.2}
-\contentsline {chapter}{\numberline {第16章}アルゴリズム}{205}{chapter.16}
-\contentsline {section}{\numberline {16.1}\hyperref [ch1601]{for\texttt {\_}each} }{205}{section.16.1}
-\contentsline {section}{\numberline {16.2}\hyperref [ch1602]{all\texttt {\_}of/any\texttt {\_}of/none\texttt {\_}of} }{211}{section.16.2}
-\contentsline {section}{\numberline {16.3}\hyperref [ch1603]{find/find\texttt {\_}if} }{213}{section.16.3}
-\contentsline {section}{\numberline {16.4}\hyperref [ch1604]{count/count\texttt {\_}if} }{217}{section.16.4}
-\contentsline {section}{\numberline {16.5}\hyperref [ch1605]{equal} }{218}{section.16.5}
-\contentsline {section}{\numberline {16.6}\hyperref [ch1606]{search} }{221}{section.16.6}
-\contentsline {section}{\numberline {16.7}\hyperref [ch1607]{copy} }{222}{section.16.7}
-\contentsline {section}{\numberline {16.8}\hyperref [ch1608]{transform} }{225}{section.16.8}
-\contentsline {section}{\numberline {16.9}\hyperref [ch1609]{replace} }{226}{section.16.9}
-\contentsline {section}{\numberline {16.10}\hyperref [ch1610]{fill} }{226}{section.16.10}
-\contentsline {section}{\numberline {16.11}\hyperref [ch1611]{generate} }{227}{section.16.11}
-\contentsline {section}{\numberline {16.12}\hyperref [ch1612]{remove} }{228}{section.16.12}
-\contentsline {chapter}{\numberline {第17章}ラムダ式}{231}{chapter.17}
-\contentsline {section}{\numberline {17.1}\hyperref [ch1701]{基本} }{231}{section.17.1}
-\contentsline {section}{\numberline {17.2}\hyperref [ch1702]{キャプチャー} }{234}{section.17.2}
-\contentsline {subsection}{\numberline {17.2.1}\hyperref [ch170201]{コピーキャプチャー} }{234}{subsection.17.2.1}
-\contentsline {subsection}{\numberline {17.2.2}\hyperref [ch170202]{リファレンスキャプチャー} }{235}{subsection.17.2.2}
-\contentsline {chapter}{\numberline {第18章}クラスの基本}{237}{chapter.18}
-\contentsline {section}{\numberline {18.1}\hyperref [ch1801]{変数をまとめる} }{237}{section.18.1}
-\contentsline {section}{\numberline {18.2}\hyperref [ch1802]{まとめた変数に関数を提供する} }{241}{section.18.2}
-\contentsline {chapter}{\numberline {第19章}より自然に振る舞うクラス}{249}{chapter.19}
-\contentsline {section}{\numberline {19.1}\hyperref [ch1901]{より自然な初期化} }{250}{section.19.1}
-\contentsline {section}{\numberline {19.2}\hyperref [ch1902]{自然な演算子} }{258}{section.19.2}
-\contentsline {section}{\numberline {19.3}\hyperref [ch1903]{演算子のオーバーロード} }{261}{section.19.3}
-\contentsline {subsection}{\numberline {19.3.1}\hyperref [ch190301]{二項演算子} }{261}{subsection.19.3.1}
-\contentsline {subsection}{\numberline {19.3.2}\hyperref [ch190302]{単項演算子} }{264}{subsection.19.3.2}
-\contentsline {subsection}{\numberline {19.3.3}\hyperref [ch190303]{インクリメント/デクリメント} }{265}{subsection.19.3.3}
-\contentsline {subsection}{\numberline {19.3.4}\hyperref [ch190304]{メンバー関数での演算子のオーバーロード} }{267}{subsection.19.3.4}
-\contentsline {chapter}{\numberline {第20章}std::array}{269}{chapter.20}
-\contentsline {chapter}{\numberline {第21章}プログラマーの三大美徳}{273}{chapter.21}
-\contentsline {chapter}{\numberline {第22章}配列}{275}{chapter.22}
-\contentsline {section}{\numberline {22.1}\hyperref [ch2201]{ナイーブなarray実装} }{275}{section.22.1}
-\contentsline {section}{\numberline {22.2}\hyperref [ch2202]{配列} }{276}{section.22.2}
-\contentsline {chapter}{\numberline {第23章}テンプレート}{281}{chapter.23}
-\contentsline {section}{\numberline {23.1}\hyperref [ch2301]{問題点} }{281}{section.23.1}
-\contentsline {section}{\numberline {23.2}\hyperref [ch2302]{関数の引数} }{282}{section.23.2}
-\contentsline {section}{\numberline {23.3}\hyperref [ch2303]{関数のテンプレート引数} }{283}{section.23.3}
-\contentsline {section}{\numberline {23.4}\hyperref [ch2304]{テンプレート} }{285}{section.23.4}
-\contentsline {section}{\numberline {23.5}\hyperref [ch2305]{クラステンプレート} }{288}{section.23.5}
-\contentsline {chapter}{\numberline {第24章}arrayをさらに実装}{291}{chapter.24}
-\contentsline {section}{\numberline {24.1}\hyperref [ch2401]{ネストされた型名} }{291}{section.24.1}
-\contentsline {section}{\numberline {24.2}\hyperref [ch2402]{要素数の取得: size()} }{293}{section.24.2}
-\contentsline {section}{\numberline {24.3}\hyperref [ch2403]{メンバー関数のconst修飾} }{294}{section.24.3}
-\contentsline {section}{\numberline {24.4}\hyperref [ch2404]{先頭と末尾の要素：front/back} }{299}{section.24.4}
-\contentsline {section}{\numberline {24.5}\hyperref [ch2405]{全要素に値を代入: fill} }{300}{section.24.5}
-\contentsline {chapter}{\numberline {第25章}arrayのイテレーター}{301}{chapter.25}
-\contentsline {section}{\numberline {25.1}\hyperref [ch2501]{イテレーターの中身} }{301}{section.25.1}
-\contentsline {section}{\numberline {25.2}\hyperref [ch2502]{残りのイテレーターの実装} }{315}{section.25.2}
-\contentsline {section}{\numberline {25.3}\hyperref [ch2503]{constなイテレーター: const\texttt {\_}iterator} }{318}{section.25.3}
-\contentsline {chapter}{\numberline {第26章}傲慢なエラー処理：例外}{325}{chapter.26}
-\contentsline {section}{\numberline {26.1}\hyperref [ch2601]{例外を投げる} }{325}{section.26.1}
-\contentsline {section}{\numberline {26.2}\hyperref [ch2602]{例外を捕まえる} }{329}{section.26.2}
-\contentsline {section}{\numberline {26.3}\hyperref [ch2603]{例外による巻き戻し} }{331}{section.26.3}
-\contentsline {chapter}{\numberline {第27章}ポインター}{337}{chapter.27}
-\contentsline {section}{\numberline {27.1}\hyperref [ch2701]{意味上のポインター} }{337}{section.27.1}
-\contentsline {subsection}{\numberline {27.1.1}\hyperref [ch270101]{リファレンスと同じ機能} }{337}{subsection.27.1.1}
-\contentsline {subsection}{\numberline {27.1.2}\hyperref [ch270102]{リファレンスと違う機能} }{340}{subsection.27.1.2}
-\contentsline {subsection}{\numberline {27.1.3}\hyperref [ch270103]{代入} }{340}{subsection.27.1.3}
-\contentsline {subsection}{\numberline {27.1.4}\hyperref [ch270104]{何も参照しない状態} }{340}{subsection.27.1.4}
-\contentsline {subsection}{\numberline {27.1.5}\hyperref [ch270105]{明示的に何も参照しないポインター: nullptr} }{341}{subsection.27.1.5}
-\contentsline {subsection}{\numberline {27.1.6}\hyperref [ch270106]{無効な参照先の作り方} }{342}{subsection.27.1.6}
-\contentsline {section}{\numberline {27.2}\hyperref [ch2702]{文法上のポインター} }{343}{section.27.2}
-\contentsline {subsection}{\numberline {27.2.1}\hyperref [ch270201]{ポインターとconstの関係} }{343}{subsection.27.2.1}
-\contentsline {subsection}{\numberline {27.2.2}\hyperref [ch270202]{ポインターのポインター} }{348}{subsection.27.2.2}
-\contentsline {subsection}{\numberline {27.2.3}\hyperref [ch270203]{関数へのポインター} }{351}{subsection.27.2.3}
-\contentsline {subsection}{\numberline {27.2.4}\hyperref [ch270204]{配列へのポインター} }{355}{subsection.27.2.4}
-\contentsline {subsection}{\numberline {27.2.5}\hyperref [ch270205]{ポインター型の作り方} }{356}{subsection.27.2.5}
-\contentsline {subsection}{\numberline {27.2.6}\hyperref [ch270206]{クラスへのポインター} }{358}{subsection.27.2.6}
-\contentsline {subsection}{\numberline {27.2.7}\hyperref [ch270207]{thisポインター} }{361}{subsection.27.2.7}
-\contentsline {subsection}{\numberline {27.2.8}\hyperref [ch270208]{メンバーへのポインター} }{363}{subsection.27.2.8}
-\contentsline {section}{\numberline {27.3}\hyperref [ch2703]{ポインターの内部実装} }{371}{section.27.3}
-\contentsline {subsection}{\numberline {27.3.1}\hyperref [ch270301]{キロバイトとキビバイト} }{371}{subsection.27.3.1}
-\contentsline {subsection}{\numberline {27.3.2}\hyperref [ch270302]{メモリーとアドレス} }{372}{subsection.27.3.2}
-\contentsline {subsection}{\numberline {27.3.3}\hyperref [ch270303]{ポインターのサイズ} }{372}{subsection.27.3.3}
-\contentsline {subsection}{\numberline {27.3.4}\hyperref [ch270304]{ポインターの値} }{373}{subsection.27.3.4}
-\contentsline {subsection}{\numberline {27.3.5}\hyperref [ch270305]{std::bit\texttt {\_}castの実装} }{375}{subsection.27.3.5}
-\contentsline {subsection}{\numberline {27.3.6}\hyperref [ch270306]{std::memcpyの実装} }{375}{subsection.27.3.6}
-\contentsline {subsubsection}{\hyperref [ch27030601]{void型} }{376}{section*.11}
-\contentsline {subsubsection}{\hyperref [ch27030602]{void *\tmspace +\thinmuskip {.1667em}型} }{376}{section*.12}
-\contentsline {subsubsection}{\hyperref [ch27030603]{std::byte型} }{377}{section*.13}
-\contentsline {subsubsection}{\hyperref [ch27030604]{配列のメモリー上での表現} }{378}{section*.14}
-\contentsline {subsubsection}{\hyperref [ch27030605]{ポインターと整数の演算} }{379}{section*.16}
-\contentsline {subsubsection}{\hyperref [ch27030606]{いよいよmemcpyの実装} }{380}{section*.17}
-\contentsline {subsubsection}{\hyperref [ch27030607]{memcpyの別の実装} }{381}{section*.18}
-\contentsline {subsection}{\numberline {27.3.7}\hyperref [ch270307]{データメンバーへのポインターの内部実装} }{382}{subsection.27.3.7}
-\contentsline {chapter}{\numberline {第28章}イテレーター詳細}{385}{chapter.28}
-\contentsline {section}{\numberline {28.1}\hyperref [ch2801]{イテレーターとポインターの関係} }{385}{section.28.1}
-\contentsline {section}{\numberline {28.2}\hyperref [ch2802]{イテレーターカテゴリー} }{387}{section.28.2}
-\contentsline {subsection}{\numberline {28.2.1}\hyperref [ch280201]{ランダムアクセスイテレーター} }{387}{subsection.28.2.1}
-\contentsline {subsection}{\numberline {28.2.2}\hyperref [ch280202]{双方向イテレーター} }{390}{subsection.28.2.2}
-\contentsline {subsection}{\numberline {28.2.3}\hyperref [ch280203]{前方イテレーター} }{390}{subsection.28.2.3}
-\contentsline {subsection}{\numberline {28.2.4}\hyperref [ch280204]{入力イテレーター} }{391}{subsection.28.2.4}
-\contentsline {subsection}{\numberline {28.2.5}\hyperref [ch280205]{出力イテレーター} }{392}{subsection.28.2.5}
-\contentsline {section}{\numberline {28.3}\hyperref [ch2803]{iterator\texttt {\_}traits} }{393}{section.28.3}
-\contentsline {section}{\numberline {28.4}\hyperref [ch2804]{イテレーターカテゴリーの実例} }{395}{section.28.4}
-\contentsline {subsection}{\numberline {28.4.1}\hyperref [ch280401]{出力イテレーター} }{395}{subsection.28.4.1}
-\contentsline {subsection}{\numberline {28.4.2}\hyperref [ch280402]{入力イテレーター} }{398}{subsection.28.4.2}
-\contentsline {subsection}{\numberline {28.4.3}\hyperref [ch280403]{前方イテレーター} }{403}{subsection.28.4.3}
-\contentsline {subsection}{\numberline {28.4.4}\hyperref [ch280404]{双方向イテレーター} }{408}{subsection.28.4.4}
-\contentsline {subsection}{\numberline {28.4.5}\hyperref [ch280405]{ランダムアクセスイテレーター} }{409}{subsection.28.4.5}
-\contentsline {section}{\numberline {28.5}\hyperref [ch2805]{イテレーター操作} }{414}{section.28.5}
-\contentsline {subsection}{\numberline {28.5.1}\hyperref [ch280501]{advance( i, n ): n移動する} }{414}{subsection.28.5.1}
-\contentsline {subsection}{\numberline {28.5.2}\hyperref [ch280502]{distance(first, last): firstからlastまでの距離} }{415}{subsection.28.5.2}
-\contentsline {subsection}{\numberline {28.5.3}\hyperref [ch280503]{next/prev : 移動したイテレーターを返す} }{415}{subsection.28.5.3}
-\contentsline {section}{\numberline {28.6}\hyperref [ch2806]{リバースイテレーター} }{417}{section.28.6}
-\contentsline {chapter}{\numberline {第29章}動的メモリー確保}{419}{chapter.29}
-\contentsline {section}{\numberline {29.1}\hyperref [ch2901]{概要} }{419}{section.29.1}
-\contentsline {section}{\numberline {29.2}\hyperref [ch2902]{malloc/free} }{420}{section.29.2}
-\contentsline {section}{\numberline {29.3}\hyperref [ch2903]{operator new/operator delete} }{420}{section.29.3}
-\contentsline {section}{\numberline {29.4}\hyperref [ch2904]{生のバイト列を基本的な型の値として使う方法} }{421}{section.29.4}
-\contentsline {section}{\numberline {29.5}\hyperref [ch2905]{メモリー確保の失敗} }{422}{section.29.5}
-\contentsline {section}{\numberline {29.6}\hyperref [ch2906]{クラス型の値の構築} }{423}{section.29.6}
-\contentsline {section}{\numberline {29.7}\hyperref [ch2907]{new/delete} }{426}{section.29.7}
-\contentsline {section}{\numberline {29.8}\hyperref [ch2908]{配列版new/delete} }{427}{section.29.8}
-\contentsline {section}{\numberline {29.9}\hyperref [ch2909]{スマートポインター} }{427}{section.29.9}
-\contentsline {chapter}{\numberline {第30章}vectorの実装：基礎}{429}{chapter.30}
-\contentsline {section}{\numberline {30.1}\hyperref [ch3001]{std::allocator\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}の概要} }{430}{section.30.1}
-\contentsline {section}{\numberline {30.2}\hyperref [ch3002]{std::allocator\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}の使い方} }{431}{section.30.2}
-\contentsline {section}{\numberline {30.3}\hyperref [ch3003]{std::allocator\texttt {\_}traits\texttt {<}Alloc\texttt {>}} }{433}{section.30.3}
-\contentsline {section}{\numberline {30.4}\hyperref [ch3004]{簡易vectorの概要} }{435}{section.30.4}
-\contentsline {section}{\numberline {30.5}\hyperref [ch3005]{classとアクセス指定} }{436}{section.30.5}
-\contentsline {section}{\numberline {30.6}\hyperref [ch3006]{ネストされた型名} }{440}{section.30.6}
-\contentsline {section}{\numberline {30.7}\hyperref [ch3007]{簡易vectorのデータメンバー} }{441}{section.30.7}
-\contentsline {section}{\numberline {30.8}\hyperref [ch3008]{簡単なメンバー関数の実装} }{443}{section.30.8}
-\contentsline {subsection}{\numberline {30.8.1}\hyperref [ch300801]{イテレーター} }{443}{subsection.30.8.1}
-\contentsline {subsection}{\numberline {30.8.2}\hyperref [ch300802]{容量確認} }{447}{subsection.30.8.2}
-\contentsline {subsection}{\numberline {30.8.3}\hyperref [ch300803]{要素アクセス} }{448}{subsection.30.8.3}
-\contentsline {subsubsection}{\hyperref [ch30080301]{operator \texttt {[]}} }{448}{section*.20}
-\contentsline {subsubsection}{\hyperref [ch30080302]{at} }{449}{section*.21}
-\contentsline {subsubsection}{\hyperref [ch30080303]{front/back} }{450}{section*.22}
-\contentsline {subsubsection}{\hyperref [ch30080304]{data} }{450}{section*.23}
-\contentsline {chapter}{\numberline {第31章}vectorの実装：メモリー確保}{451}{chapter.31}
-\contentsline {section}{\numberline {31.1}\hyperref [ch3101]{メモリー確保と解放の起こるタイミング} }{451}{section.31.1}
-\contentsline {section}{\numberline {31.2}\hyperref [ch3102]{デフォルトコンストラクター} }{454}{section.31.2}
-\contentsline {section}{\numberline {31.3}\hyperref [ch3103]{アロケーターを取るコンストラクター} }{454}{section.31.3}
-\contentsline {section}{\numberline {31.4}\hyperref [ch3104]{要素数と初期値を取るコンストラクターの実装} }{455}{section.31.4}
-\contentsline {section}{\numberline {31.5}\hyperref [ch3105]{ヘルパー関数} }{455}{section.31.5}
-\contentsline {subsection}{\numberline {31.5.1}\hyperref [ch310501]{ネストされた型名traits} }{456}{subsection.31.5.1}
-\contentsline {subsection}{\numberline {31.5.2}\hyperref [ch310502]{allocate/deallocate} }{456}{subsection.31.5.2}
-\contentsline {subsection}{\numberline {31.5.3}\hyperref [ch310503]{construct/destroy} }{456}{subsection.31.5.3}
-\contentsline {subsection}{\numberline {31.5.4}\hyperref [ch310504]{destroy\texttt {\_}until} }{457}{subsection.31.5.4}
-\contentsline {section}{\numberline {31.6}\hyperref [ch3106]{clear} }{458}{section.31.6}
-\contentsline {section}{\numberline {31.7}\hyperref [ch3107]{デストラクター} }{458}{section.31.7}
-\contentsline {section}{\numberline {31.8}\hyperref [ch3108]{reserveの実装} }{458}{section.31.8}
-\contentsline {section}{\numberline {31.9}\hyperref [ch3109]{resize} }{462}{section.31.9}
-\contentsline {section}{\numberline {31.10}\hyperref [ch3110]{push\texttt {\_}back} }{465}{section.31.10}
-\contentsline {subsection}{\numberline {31.10.1}\hyperref [ch311001]{shrink\texttt {\_}to\texttt {\_}fit} }{467}{subsection.31.10.1}
-\contentsline {section}{\numberline {31.11}\hyperref [ch3111]{vectorのその他のコンストラクター} }{469}{section.31.11}
-\contentsline {subsection}{\numberline {31.11.1}\hyperref [ch311101]{イテレーターのペア} }{469}{subsection.31.11.1}
-\contentsline {subsection}{\numberline {31.11.2}\hyperref [ch311102]{初期化リスト} }{470}{subsection.31.11.2}
-\contentsline {chapter}{\numberline {第32章}コピー}{471}{chapter.32}
-\contentsline {section}{\numberline {32.1}\hyperref [ch3201]{普通のコピー} }{471}{section.32.1}
-\contentsline {section}{\numberline {32.2}\hyperref [ch3202]{コピーコンストラクター} }{473}{section.32.2}
-\contentsline {section}{\numberline {32.3}\hyperref [ch3203]{コピー代入演算子} }{474}{section.32.3}
-\contentsline {section}{\numberline {32.4}\hyperref [ch3204]{コピーの挙動} }{475}{section.32.4}
-\contentsline {section}{\numberline {32.5}\hyperref [ch3205]{所有するクラス} }{478}{section.32.5}
-\contentsline {section}{\numberline {32.6}\hyperref [ch3206]{own\texttt {<}U\texttt {>}\tmspace +\thinmuskip {.1667em}からown\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}への変換} }{480}{section.32.6}
-\contentsline {section}{\numberline {32.7}\hyperref [ch3207]{もう少し複雑な所有するクラス} }{482}{section.32.7}
-\contentsline {section}{\numberline {32.8}\hyperref [ch3208]{vectorのコピー} }{484}{section.32.8}
-\contentsline {subsection}{\numberline {32.8.1}\hyperref [ch320801]{コピーコンストラクター} }{484}{subsection.32.8.1}
-\contentsline {subsection}{\numberline {32.8.2}\hyperref [ch320802]{コピー代入演算子} }{485}{subsection.32.8.2}
-\contentsline {chapter}{\numberline {第33章}ムーブ}{489}{chapter.33}
-\contentsline {section}{\numberline {33.1}\hyperref [ch3301]{ムーブの使い方} }{489}{section.33.1}
-\contentsline {section}{\numberline {33.2}\hyperref [ch3302]{ムーブの中身} }{491}{section.33.2}
-\newpage 
-\contentsline {chapter}{\numberline {第34章}rvalueリファレンス}{497}{chapter.34}
-\contentsline {section}{\numberline {34.1}\hyperref [ch3401]{概要} }{497}{section.34.1}
-\contentsline {section}{\numberline {34.2}\hyperref [ch3402]{rvalueリファレンスの宣言} }{497}{section.34.2}
-\contentsline {section}{\numberline {34.3}\hyperref [ch3403]{値カテゴリー} }{500}{section.34.3}
-\contentsline {subsection}{\numberline {34.3.1}\hyperref [ch340301]{lvalue} }{500}{subsection.34.3.1}
-\contentsline {subsection}{\numberline {34.3.2}\hyperref [ch340302]{prvalue} }{500}{subsection.34.3.2}
-\contentsline {subsection}{\numberline {34.3.3}\hyperref [ch340303]{xvalue} }{501}{subsection.34.3.3}
-\contentsline {subsection}{\numberline {34.3.4}\hyperref [ch340304]{rvalue} }{503}{subsection.34.3.4}
-\contentsline {subsection}{\numberline {34.3.5}\hyperref [ch340305]{glvalue} }{503}{subsection.34.3.5}
-\contentsline {section}{\numberline {34.4}\hyperref [ch3404]{rvalueリファレンスのライブラリ} }{504}{section.34.4}
-\contentsline {subsection}{\numberline {34.4.1}\hyperref [ch340401]{std::move} }{504}{subsection.34.4.1}
-\contentsline {subsection}{\numberline {34.4.2}\hyperref [ch340402]{std::moveの実装} }{504}{subsection.34.4.2}
-\contentsline {subsection}{\numberline {34.4.3}\hyperref [ch340403]{フォワーディングリファレンス} }{505}{subsection.34.4.3}
-\contentsline {subsection}{\numberline {34.4.4}\hyperref [ch340404]{std::remove\texttt {\_}reference\texttt {\_}t} }{507}{subsection.34.4.4}
-\contentsline {subsection}{\numberline {34.4.5}\hyperref [ch340405]{std::moveの正しい実装} }{508}{subsection.34.4.5}
-\contentsline {subsection}{\numberline {34.4.6}\hyperref [ch340406]{std::forward} }{508}{subsection.34.4.6}
-\contentsline {chapter}{\numberline {第35章}ムーブの実装}{511}{chapter.35}
-\contentsline {section}{\numberline {35.1}\hyperref [ch3501]{コピーとムーブの判別} }{512}{section.35.1}
-\contentsline {section}{\numberline {35.2}\hyperref [ch3502]{ムーブの実装} }{514}{section.35.2}
-\contentsline {subsection}{\numberline {35.2.1}\hyperref [ch350201]{ムーブコンストラクター} }{515}{subsection.35.2.1}
-\contentsline {subsection}{\numberline {35.2.2}\hyperref [ch350202]{ムーブ代入演算子} }{515}{subsection.35.2.2}
-\contentsline {section}{\numberline {35.3}\hyperref [ch3503]{デフォルトのムーブ} }{518}{section.35.3}
-\contentsline {section}{\numberline {35.4}\hyperref [ch3504]{コピーの禁止} }{519}{section.35.4}
-\contentsline {section}{\numberline {35.5}\hyperref [ch3505]{5原則} }{520}{section.35.5}
-\contentsline {chapter}{\numberline {第36章}スマートポインター}{521}{chapter.36}
-\contentsline {section}{\numberline {36.1}\hyperref [ch3601]{unique\texttt {\_}ptr} }{522}{section.36.1}
-\contentsline {section}{\numberline {36.2}\hyperref [ch3602]{shared\texttt {\_}ptr} }{525}{section.36.2}
-\contentsline {chapter}{\numberline {第37章}自作の数値クラスで演算をムーブに対応する方法}{531}{chapter.37}
-\contentsline {section}{\numberline {37.1}\hyperref [ch3701]{基本の実装} }{531}{section.37.1}
-\contentsline {section}{\numberline {37.2}\hyperref [ch3702]{複合代入演算子} }{533}{section.37.2}
-\contentsline {section}{\numberline {37.3}\hyperref [ch3703]{単項演算子} }{534}{section.37.3}
-\contentsline {section}{\numberline {37.4}\hyperref [ch3704]{二項演算子} }{540}{section.37.4}
-\contentsline {subsection}{\numberline {37.4.1}\hyperref [ch370401]{ムーブしない実装} }{540}{subsection.37.4.1}
-\contentsline {subsection}{\numberline {37.4.2}\hyperref [ch370402]{ムーブをしたくなる状況} }{542}{subsection.37.4.2}
-\contentsline {chapter}{\numberline {第38章}文字列}{547}{chapter.38}
-\contentsline {section}{\numberline {38.1}\hyperref [ch3801]{はじめに} }{547}{section.38.1}
-\contentsline {section}{\numberline {38.2}\hyperref [ch3802]{基本ソース文字セット} }{547}{section.38.2}
-\contentsline {section}{\numberline {38.3}\hyperref [ch3803]{基本実行文字セット} }{548}{section.38.3}
-\contentsline {section}{\numberline {38.4}\hyperref [ch3804]{文字を表現する方法} }{548}{section.38.4}
-\contentsline {subsection}{\numberline {38.4.1}\hyperref [ch380401]{ASCII} }{548}{subsection.38.4.1}
-\contentsline {subsection}{\numberline {38.4.2}\hyperref [ch380402]{Unicode} }{548}{subsection.38.4.2}
-\contentsline {subsubsection}{\hyperref [ch38040201]{UTF--16} }{548}{section*.25}
-\contentsline {subsubsection}{\hyperref [ch38040202]{UTF--32} }{549}{section*.26}
-\contentsline {subsubsection}{\hyperref [ch38040203]{エンディアンの問題} }{549}{section*.27}
-\contentsline {subsubsection}{\hyperref [ch38040204]{UTF--8} }{550}{section*.28}
-\contentsline {section}{\numberline {38.5}\hyperref [ch3805]{OS} }{550}{section.38.5}
-\contentsline {section}{\numberline {38.6}\hyperref [ch3806]{リテラル} }{551}{section.38.6}
-\contentsline {subsection}{\numberline {38.6.1}\hyperref [ch380601]{通常の文字リテラル} }{551}{subsection.38.6.1}
-\contentsline {subsection}{\numberline {38.6.2}\hyperref [ch380602]{ユニバーサルキャラクター名} }{552}{subsection.38.6.2}
-\contentsline {subsection}{\numberline {38.6.3}\hyperref [ch380603]{通常の文字列リテラル} }{552}{subsection.38.6.3}
-\contentsline {section}{\numberline {38.7}\hyperref [ch3807]{ワイド文字} }{554}{section.38.7}
-\contentsline {section}{\numberline {38.8}\hyperref [ch3808]{UTF--8/UTF--16/UTF--32} }{555}{section.38.8}
-\contentsline {section}{\numberline {38.9}\hyperref [ch3809]{生文字列リテラル} }{557}{section.38.9}
-\contentsline {section}{\numberline {38.10}\hyperref [ch3810]{文字列の表現方法} }{558}{section.38.10}
-\contentsline {subsection}{\numberline {38.10.1}\hyperref [ch381001]{null終端文字列} }{558}{subsection.38.10.1}
-\contentsline {subsection}{\numberline {38.10.2}\hyperref [ch381002]{std::basic\texttt {\_}string} }{559}{subsection.38.10.2}
-\contentsline {subsection}{\numberline {38.10.3}\hyperref [ch381003]{std::basic\texttt {\_}string\texttt {\_}view} }{562}{subsection.38.10.3}
-\contentsline {section}{\numberline {38.11}\hyperref [ch3811]{文字列の操作} }{564}{section.38.11}
-\contentsline {subsection}{\numberline {38.11.1}\hyperref [ch381101]{null終端文字列の操作} }{564}{subsection.38.11.1}
-\contentsline {subsection}{\numberline {38.11.2}\hyperref [ch381102]{basic\texttt {\_}stringの操作} }{566}{subsection.38.11.2}
-\contentsline {subsubsection}{\hyperref [ch38110201]{初期化} }{567}{section*.29}
-\contentsline {subsubsection}{\hyperref [ch38110202]{結合} }{567}{section*.30}
-\contentsline {subsubsection}{\hyperref [ch38110203]{イテレーター} }{568}{section*.31}
-\contentsline {subsubsection}{\hyperref [ch38110204]{部分文字列の検索} }{568}{section*.32}
-\contentsline {subsubsection}{\hyperref [ch38110205]{その他のメンバー関数} }{571}{section*.33}
-\contentsline {subsubsection}{\hyperref [ch38110206]{文字列の挿入} }{572}{section*.34}
-\contentsline {subsubsection}{\hyperref [ch38110207]{部分文字列の削除} }{572}{section*.35}
-\contentsline {subsubsection}{\hyperref [ch38110208]{部分文字列の置換} }{573}{section*.36}
-\contentsline {subsubsection}{\hyperref [ch38110209]{その他の推奨できない操作} }{573}{section*.37}
-\contentsline {subsection}{\numberline {38.11.3}\hyperref [ch381103]{basic\texttt {\_}string\texttt {\_}viewの操作} }{575}{subsection.38.11.3}
-\contentsline {chapter}{\numberline {第39章}乱数}{577}{chapter.39}
-\contentsline {section}{\numberline {39.1}\hyperref [ch3901]{疑似乱数} }{577}{section.39.1}
-\contentsline {section}{\numberline {39.2}\hyperref [ch3902]{乱数エンジン} }{578}{section.39.2}
-\contentsline {section}{\numberline {39.3}\hyperref [ch3903]{乱数分布} }{580}{section.39.3}
-\contentsline {section}{\numberline {39.4}\hyperref [ch3904]{シード} }{582}{section.39.4}
-\contentsline {section}{\numberline {39.5}\hyperref [ch3905]{予測不可能な乱数} }{584}{section.39.5}
-\contentsline {section}{\numberline {39.6}\hyperref [ch3906]{十分なシード値の量} }{585}{section.39.6}
-\contentsline {section}{\numberline {39.7}\hyperref [ch3907]{乱数分布ライブラリ} }{586}{section.39.7}
-\contentsline {section}{\numberline {39.8}\hyperref [ch3908]{分布クラス} }{588}{section.39.8}
-\contentsline {section}{\numberline {39.9}\hyperref [ch3909]{一様分布(Uniform Distribution)} }{590}{section.39.9}
-\contentsline {subsection}{\numberline {39.9.1}\hyperref [ch390901]{整数の一様分布(std::uniform\texttt {\_}int\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{590}{subsection.39.9.1}
-\contentsline {subsection}{\numberline {39.9.2}\hyperref [ch390902]{浮動小数点数の一様分布(uniform\texttt {\_}real\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{591}{subsection.39.9.2}
-\contentsline {section}{\numberline {39.10}\hyperref [ch3910]{ベルヌーイ分布(Bernoulli distributions)} }{591}{section.39.10}
-\contentsline {subsection}{\numberline {39.10.1}\hyperref [ch391001]{ベルヌーイ試行} }{592}{subsection.39.10.1}
-\contentsline {subsection}{\numberline {39.10.2}\hyperref [ch391002]{ベルヌーイ分布(std::bernoulli\texttt {\_}distribution)} }{593}{subsection.39.10.2}
-\contentsline {subsection}{\numberline {39.10.3}\hyperref [ch391003]{二項分布(std::binomial\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{595}{subsection.39.10.3}
-\contentsline {subsection}{\numberline {39.10.4}\hyperref [ch391004]{幾何分布(std::geometric\texttt {\_}distribution)} }{597}{subsection.39.10.4}
-\contentsline {subsection}{\numberline {39.10.5}\hyperref [ch391005]{負の二項分布(std::negative\texttt {\_}binomial\texttt {\_}distribution)} }{599}{subsection.39.10.5}
-\contentsline {section}{\numberline {39.11}\hyperref [ch3911]{ポアソン分布} }{602}{section.39.11}
-\contentsline {subsection}{\numberline {39.11.1}\hyperref [ch391101]{ポアソン分布(poisson\texttt {\_}distribution)} }{602}{subsection.39.11.1}
-\contentsline {subsection}{\numberline {39.11.2}\hyperref [ch391102]{指数分布(std::exponential\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{603}{subsection.39.11.2}
-\contentsline {subsection}{\numberline {39.11.3}\hyperref [ch391103]{ガンマ分布(std::gamma\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{605}{subsection.39.11.3}
-\contentsline {subsection}{\numberline {39.11.4}\hyperref [ch391104]{ウェイブル分布(std::weibull\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{606}{subsection.39.11.4}
-\contentsline {section}{\numberline {39.12}\hyperref [ch3912]{極値分布(std::extreme\texttt {\_}value\texttt {\_}distribution{\penalty \z@ }\texttt {<}RealType\texttt {>})} }{606}{section.39.12}
-\contentsline {section}{\numberline {39.13}\hyperref [ch3913]{正規分布} }{607}{section.39.13}
-\contentsline {subsection}{\numberline {39.13.1}\hyperref [ch391301]{正規分布(std::normal\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{607}{subsection.39.13.1}
-\contentsline {subsection}{\numberline {39.13.2}\hyperref [ch391302]{対数正規分布(std::lognormal\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{608}{subsection.39.13.2}
-\contentsline {subsection}{\numberline {39.13.3}\hyperref [ch391303]{カイ二乗分布(std::chi\texttt {\_}squared\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{608}{subsection.39.13.3}
-\contentsline {subsection}{\numberline {39.13.4}\hyperref [ch391304]{コーシー分布(std::cauchy\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{609}{subsection.39.13.4}
-\contentsline {subsection}{\numberline {39.13.5}\hyperref [ch391305]{フィッシャーの\(F\)分布(std::fisher\texttt {\_}f\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{610}{subsection.39.13.5}
-\contentsline {subsection}{\numberline {39.13.6}\hyperref [ch391306]{スチューデントの\(t\)分布(std::student\texttt {\_}t\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{610}{subsection.39.13.6}
-\contentsline {section}{\numberline {39.14}\hyperref [ch3914]{サンプリング分布(sampling distributions)} }{611}{section.39.14}
-\contentsline {subsection}{\numberline {39.14.1}\hyperref [ch391401]{離散分布(std::discrete\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{611}{subsection.39.14.1}
-\contentsline {subsubsection}{\hyperref [ch39140101]{簡単な説明} }{611}{section*.38}
-\contentsline {subsubsection}{\hyperref [ch39140102]{数学的な説明} }{612}{section*.39}
-\contentsline {subsubsection}{\hyperref [ch39140103]{変数の宣言} }{612}{section*.40}
-\contentsline {subsubsection}{\hyperref [ch39140104]{初期化パラメーターの確認} }{614}{section*.41}
-\contentsline {subsubsection}{\hyperref [ch39140105]{応用例} }{614}{section*.42}
-\contentsline {subsection}{\numberline {39.14.2}\hyperref [ch391402]{区分定数分布(std::piecewise\texttt {\_}constant\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{614}{subsection.39.14.2}
-\contentsline {subsubsection}{\hyperref [ch39140201]{簡単な説明} }{614}{section*.43}
-\contentsline {subsubsection}{\hyperref [ch39140202]{数学的な説明} }{615}{section*.44}
-\contentsline {subsubsection}{\hyperref [ch39140203]{変数の宣言} }{615}{section*.45}
-\contentsline {subsubsection}{\hyperref [ch39140204]{内部状態の取得} }{618}{section*.46}
-\contentsline {subsection}{\numberline {39.14.3}\hyperref [ch391403]{区分線形分布(std::piecewise\texttt {\_}linear\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{619}{subsection.39.14.3}
-\contentsline {subsubsection}{\hyperref [ch39140301]{簡単な説明} }{619}{section*.47}
-\contentsline {subsubsection}{\hyperref [ch39140302]{数学的な説明} }{619}{section*.49}
-\contentsline {subsubsection}{\hyperref [ch39140303]{変数の宣言} }{619}{section*.50}
-\contentsline {chapter}{\numberline {第40章}Cプリプロセッサー}{625}{chapter.40}
-\contentsline {section}{\numberline {40.1}\hyperref [ch4001]{\#includeディレクティブ} }{625}{section.40.1}
-\contentsline {section}{\numberline {40.2}\hyperref [ch4002]{\#define} }{629}{section.40.2}
-\contentsline {subsection}{\numberline {40.2.1}\hyperref [ch400201]{オブジェクト風マクロ} }{629}{subsection.40.2.1}
-\contentsline {subsection}{\numberline {40.2.2}\hyperref [ch400202]{関数風マクロ} }{630}{subsection.40.2.2}
-\contentsline {subsection}{\numberline {40.2.3}\hyperref [ch400203]{\texttt {\_}\texttt {\_}VA\texttt {\_}ARGS\texttt {\_}\texttt {\_} (可変長引数マクロ)} }{631}{subsection.40.2.3}
-\contentsline {subsection}{\numberline {40.2.4}\hyperref [ch400204]{\texttt {\_}\texttt {\_}VA\texttt {\_}OPT\texttt {\_}\texttt {\_}} }{632}{subsection.40.2.4}
-\contentsline {subsection}{\numberline {40.2.5}\hyperref [ch400205]{\#演算子} }{632}{subsection.40.2.5}
-\contentsline {subsection}{\numberline {40.2.6}\hyperref [ch400206]{\#\#演算子} }{633}{subsection.40.2.6}
-\contentsline {subsection}{\numberline {40.2.7}\hyperref [ch400207]{複数行の置換リスト} }{634}{subsection.40.2.7}
-\contentsline {subsection}{\numberline {40.2.8}\hyperref [ch400208]{\#undefディレクティブ} }{634}{subsection.40.2.8}
-\contentsline {section}{\numberline {40.3}\hyperref [ch4003]{条件付きソースファイル選択} }{635}{section.40.3}
-\contentsline {subsection}{\numberline {40.3.1}\hyperref [ch400301]{プリプロセッサーの定数式} }{635}{subsection.40.3.1}
-\contentsline {subsection}{\numberline {40.3.2}\hyperref [ch400302]{\#ifディレクティブ} }{637}{subsection.40.3.2}
-\contentsline {subsection}{\numberline {40.3.3}\hyperref [ch400303]{\#elifディレクティブ} }{638}{subsection.40.3.3}
-\contentsline {subsection}{\numberline {40.3.4}\hyperref [ch400304]{\#elseディレクティブ} }{639}{subsection.40.3.4}
-\contentsline {subsection}{\numberline {40.3.5}\hyperref [ch400305]{\#ifdef, \#ifndefディレクティブ} }{639}{subsection.40.3.5}
-\contentsline {section}{\numberline {40.4}\hyperref [ch4004]{\#lineディレクティブ} }{640}{section.40.4}
-\contentsline {section}{\numberline {40.5}\hyperref [ch4005]{\#errorディレクティブ} }{641}{section.40.5}
-\contentsline {section}{\numberline {40.6}\hyperref [ch4006]{\#pragma} }{642}{section.40.6}
-\contentsline {section}{\numberline {40.7}\hyperref [ch4007]{Nullディレクティブ} }{642}{section.40.7}
-\contentsline {section}{\numberline {40.8}\hyperref [ch4008]{定義済みマクロ名} }{642}{section.40.8}
-\contentsline {chapter}{\numberline {第41章}分割コンパイル}{643}{chapter.41}
-\contentsline {subsection}{\numberline {41.0.1}\hyperref [ch410001]{ソースファイルとコンパイル} }{643}{subsection.41.0.1}
-\contentsline {subsection}{\numberline {41.0.2}\hyperref [ch410002]{単一のソースファイルのコンパイル} }{643}{subsection.41.0.2}
-\contentsline {subsection}{\numberline {41.0.3}\hyperref [ch410003]{ヘッダーファイルはコピペ} }{644}{subsection.41.0.3}
-\contentsline {subsection}{\numberline {41.0.4}\hyperref [ch410004]{複数のソースファイルのコンパイル} }{644}{subsection.41.0.4}
-\contentsline {section}{\numberline {41.1}\hyperref [ch4101]{オブジェクトファイル} }{645}{section.41.1}
-\contentsline {section}{\numberline {41.2}\hyperref [ch4102]{複数のソースファイルの書き方} }{646}{section.41.2}
-\contentsline {subsection}{\numberline {41.2.1}\hyperref [ch410201]{関数} }{646}{subsection.41.2.1}
-\contentsline {subsection}{\numberline {41.2.2}\hyperref [ch410202]{変数} }{649}{subsection.41.2.2}
-\contentsline {subsection}{\numberline {41.2.3}\hyperref [ch410203]{インライン関数/インライン変数} }{651}{subsection.41.2.3}
-\contentsline {subsection}{\numberline {41.2.4}\hyperref [ch410204]{クラス} }{653}{subsection.41.2.4}
-\contentsline {paragraph}{\hyperref [ch4102040001]{staticメンバー} }{655}{section*.52}
-\contentsline {subsection}{\numberline {41.2.5}\hyperref [ch410205]{テンプレート} }{658}{subsection.41.2.5}
-\contentsline {chapter}{\numberline {第42章}デバッガー}{659}{chapter.42}
-\contentsline {section}{\numberline {42.1}\hyperref [ch4201]{GDBのチュートリアル} }{660}{section.42.1}
-\contentsline {section}{\numberline {42.2}\hyperref [ch4202]{プログラムの実行} }{664}{section.42.2}
-\contentsline {section}{\numberline {42.3}\hyperref [ch4203]{プログラムの停止方法} }{664}{section.42.3}
-\contentsline {subsection}{\numberline {42.3.1}\hyperref [ch420301]{ブレイクポイント} }{664}{subsection.42.3.1}
-\contentsline {subsubsection}{\hyperref [ch42030101]{行番号へのブレイクポイント} }{664}{section*.53}
-\contentsline {subsubsection}{\hyperref [ch42030102]{ブレイクポイントの確認} }{665}{section*.54}
-\contentsline {subsubsection}{\hyperref [ch42030103]{ブレイクポイントの削除} }{665}{section*.55}
-\contentsline {subsubsection}{\hyperref [ch42030104]{ブレイクポイントの有効/無効} }{666}{section*.56}
-\contentsline {subsubsection}{\hyperref [ch42030105]{関数名へのブレイクポイント} }{666}{section*.57}
-\contentsline {subsection}{\numberline {42.3.2}\hyperref [ch420302]{条件付きブレイクポイント} }{668}{subsection.42.3.2}
-\contentsline {section}{\numberline {42.4}\hyperref [ch4204]{プログラムの実行再開とステップ実行} }{669}{section.42.4}
-\contentsline {subsection}{\numberline {42.4.1}\hyperref [ch420401]{実行再開(continue)} }{669}{subsection.42.4.1}
-\contentsline {subsection}{\numberline {42.4.2}\hyperref [ch420402]{ステップ実行(step)} }{669}{subsection.42.4.2}
-\contentsline {subsection}{\numberline {42.4.3}\hyperref [ch420403]{ネクスト実行(next)} }{671}{subsection.42.4.3}
-\contentsline {subsection}{\numberline {42.4.4}\hyperref [ch420404]{関数から抜けるまで実行(finish)} }{671}{subsection.42.4.4}
-\contentsline {section}{\numberline {42.5}\hyperref [ch4205]{バックトレース} }{672}{section.42.5}
-\contentsline {section}{\numberline {42.6}\hyperref [ch4206]{変数の値を確認} }{674}{section.42.6}
-\contentsline {section}{\numberline {42.7}\hyperref [ch4207]{シグナルによるプログラムの中断} }{675}{section.42.7}
-\contentsline {section}{\numberline {42.8}\hyperref [ch4208]{コアダンプを使ったプログラムの状態の確認} }{676}{section.42.8}
-\contentsline {subsubsection}{\hyperref [about-the-author]{著者プロフィール} }{678}{section*.58}
-\contentsline {chapter}{著者プロフィール}{678}{section*.58}
+\contentsline {chapter}{\numberline {第9章}メモリーを無限に確保する}{105}{chapter.9}
+\contentsline {section}{\numberline {9.1}\hyperref [ch0901]{これまでのまとめ} }{105}{section.9.1}
+\contentsline {section}{\numberline {9.2}\hyperref [ch0902]{vector} }{105}{section.9.2}
+\contentsline {chapter}{\numberline {第10章}デバッグ：printfデバッグ}{117}{chapter.10}
+\contentsline {section}{\numberline {10.1}\hyperref [ch1001]{実践例} }{117}{section.10.1}
+\contentsline {section}{\numberline {10.2}\hyperref [ch1002]{std::cerr} }{122}{section.10.2}
+\contentsline {section}{\numberline {10.3}\hyperref [ch1003]{まとめ} }{124}{section.10.3}
+\contentsline {chapter}{\numberline {第11章}整数}{125}{chapter.11}
+\contentsline {section}{\numberline {11.1}\hyperref [ch1101]{整数リテラル} }{125}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}\hyperref [ch110101]{10進数リテラル} }{125}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}\hyperref [ch110102]{2進数リテラル} }{126}{subsection.11.1.2}
+\contentsline {subsection}{\numberline {11.1.3}\hyperref [ch110103]{8進数リテラル} }{126}{subsection.11.1.3}
+\contentsline {subsection}{\numberline {11.1.4}\hyperref [ch110104]{16進数リテラル} }{126}{subsection.11.1.4}
+\contentsline {subsection}{\numberline {11.1.5}\hyperref [ch110105]{数値区切り} }{126}{subsection.11.1.5}
+\contentsline {section}{\numberline {11.2}\hyperref [ch1102]{整数の仕組み} }{127}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}\hyperref [ch110201]{情報の単位} }{127}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}\hyperref [ch110202]{1バイトで表現された整数} }{127}{subsection.11.2.2}
+\contentsline {subsubsection}{\hyperref [ch11020201]{符号ビット} }{128}{section*.7}
+\contentsline {subsubsection}{\hyperref [ch11020202]{1の補数} }{128}{section*.8}
+\contentsline {subsubsection}{\hyperref [ch11020203]{2の補数} }{129}{section*.9}
+\contentsline {section}{\numberline {11.3}\hyperref [ch1103]{整数型} }{130}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}\hyperref [ch110301]{int型} }{130}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}\hyperref [ch110302]{long int型} }{131}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}\hyperref [ch110303]{long long int型} }{132}{subsection.11.3.3}
+\contentsline {subsection}{\numberline {11.3.4}\hyperref [ch110304]{short int型} }{132}{subsection.11.3.4}
+\contentsline {subsection}{\numberline {11.3.5}\hyperref [ch110305]{char型} }{132}{subsection.11.3.5}
+\contentsline {section}{\numberline {11.4}\hyperref [ch1104]{整数型のサイズ} }{132}{section.11.4}
+\contentsline {section}{\numberline {11.5}\hyperref [ch1105]{整数型の表現できる値の範囲} }{133}{section.11.5}
+\contentsline {section}{\numberline {11.6}\hyperref [ch1106]{整数型の変換} }{135}{section.11.6}
+\contentsline {chapter}{\numberline {第12章}浮動小数点数}{137}{chapter.12}
+\contentsline {section}{\numberline {12.1}\hyperref [ch1201]{浮動小数点数リテラル} }{139}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}\hyperref [ch120101]{10進浮動小数点数リテラル} }{139}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}\hyperref [ch120102]{10進数の仮数と指数による表記} }{139}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}\hyperref [ch120103]{16進数の仮数と指数による表記} }{140}{subsection.12.1.3}
+\contentsline {section}{\numberline {12.2}\hyperref [ch1202]{浮動小数点数の表現と特性} }{140}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}\hyperref [ch120201]{\texttt {+}0.0と\tmspace +\thinmuskip {.1667em}\texttt {-}0.0} }{140}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}\hyperref [ch120202]{\texttt {+}{\(\infty \)}と\tmspace +\thinmuskip {.1667em}\texttt {-}{\(\infty \)}\tmspace +\thinmuskip {.1667em}(無限大)} }{141}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.3}\hyperref [ch120203]{NaN\tmspace +\thinmuskip {.1667em}(Not a Number)} }{141}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.4}\hyperref [ch120204]{有効桁数} }{142}{subsection.12.2.4}
+\contentsline {section}{\numberline {12.3}\hyperref [ch1203]{浮動小数点数同士の変換} }{142}{section.12.3}
+\contentsline {section}{\numberline {12.4}\hyperref [ch1204]{浮動小数点数と整数の変換} }{143}{section.12.4}
+\contentsline {chapter}{\numberline {第13章}名前}{145}{chapter.13}
+\contentsline {section}{\numberline {13.1}\hyperref [ch1301]{キーワード} }{145}{section.13.1}
+\contentsline {section}{\numberline {13.2}\hyperref [ch1302]{名前に使える文字} }{145}{section.13.2}
+\contentsline {section}{\numberline {13.3}\hyperref [ch1303]{宣言と定義} }{146}{section.13.3}
+\contentsline {section}{\numberline {13.4}\hyperref [ch1304]{名前空間} }{148}{section.13.4}
+\contentsline {subsection}{\numberline {13.4.1}\hyperref [ch130401]{グローバル名前空間} }{150}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.2}\hyperref [ch130402]{名前空間のネスト} }{150}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.3}\hyperref [ch130403]{名前空間名の別名を宣言する名前空間エイリアス} }{151}{subsection.13.4.3}
+\contentsline {subsection}{\numberline {13.4.4}\hyperref [ch130404]{名前空間名の指定を省略するusingディレクティブ} }{152}{subsection.13.4.4}
+\contentsline {subsection}{\numberline {13.4.5}\hyperref [ch130405]{名前空間を指定しなくてもよいinline名前空間} }{154}{subsection.13.4.5}
+\contentsline {section}{\numberline {13.5}\hyperref [ch1305]{型名} }{155}{section.13.5}
+\contentsline {subsection}{\numberline {13.5.1}\hyperref [ch130501]{型名の別名を宣言するエイリアス宣言} }{155}{subsection.13.5.1}
+\contentsline {section}{\numberline {13.6}\hyperref [ch1306]{スコープ} }{156}{section.13.6}
+\contentsline {chapter}{\numberline {第14章}イテレーターの基礎}{161}{chapter.14}
+\contentsline {section}{\numberline {14.1}\hyperref [ch1401]{イテレーターの取得方法} }{161}{section.14.1}
+\contentsline {section}{\numberline {14.2}\hyperref [ch1402]{イテレーターの参照する要素に対する読み書き} }{161}{section.14.2}
+\contentsline {section}{\numberline {14.3}\hyperref [ch1403]{イテレーターの参照する要素を変更} }{162}{section.14.3}
+\contentsline {section}{\numberline {14.4}\hyperref [ch1404]{イテレーターの比較} }{163}{section.14.4}
+\contentsline {section}{\numberline {14.5}\hyperref [ch1405]{最後の次の要素へのイテレーター} }{163}{section.14.5}
+\contentsline {section}{\numberline {14.6}\hyperref [ch1406]{なんでもイテレーター} }{165}{section.14.6}
+\contentsline {section}{\numberline {14.7}\hyperref [ch1407]{イテレーターと添字の範囲} }{167}{section.14.7}
+\contentsline {chapter}{\numberline {第15章}lvalueリファレンスとconst}{171}{chapter.15}
+\contentsline {section}{\numberline {15.1}\hyperref [ch1501]{lvalueリファレンス} }{171}{section.15.1}
+\contentsline {section}{\numberline {15.2}\hyperref [ch1502]{const} }{173}{section.15.2}
+\contentsline {chapter}{\numberline {第16章}アルゴリズム}{177}{chapter.16}
+\contentsline {section}{\numberline {16.1}\hyperref [ch1601]{for\texttt {\_}each} }{177}{section.16.1}
+\contentsline {section}{\numberline {16.2}\hyperref [ch1602]{all\texttt {\_}of/any\texttt {\_}of/none\texttt {\_}of} }{182}{section.16.2}
+\contentsline {section}{\numberline {16.3}\hyperref [ch1603]{find/find\texttt {\_}if} }{184}{section.16.3}
+\contentsline {section}{\numberline {16.4}\hyperref [ch1604]{count/count\texttt {\_}if} }{186}{section.16.4}
+\contentsline {section}{\numberline {16.5}\hyperref [ch1605]{equal} }{188}{section.16.5}
+\contentsline {section}{\numberline {16.6}\hyperref [ch1606]{search} }{190}{section.16.6}
+\contentsline {section}{\numberline {16.7}\hyperref [ch1607]{copy} }{191}{section.16.7}
+\contentsline {section}{\numberline {16.8}\hyperref [ch1608]{transform} }{194}{section.16.8}
+\contentsline {section}{\numberline {16.9}\hyperref [ch1609]{replace} }{195}{section.16.9}
+\contentsline {section}{\numberline {16.10}\hyperref [ch1610]{fill} }{195}{section.16.10}
+\contentsline {section}{\numberline {16.11}\hyperref [ch1611]{generate} }{196}{section.16.11}
+\contentsline {section}{\numberline {16.12}\hyperref [ch1612]{remove} }{196}{section.16.12}
+\contentsline {chapter}{\numberline {第17章}ラムダ式}{199}{chapter.17}
+\contentsline {section}{\numberline {17.1}\hyperref [ch1701]{基本} }{199}{section.17.1}
+\contentsline {section}{\numberline {17.2}\hyperref [ch1702]{キャプチャー} }{201}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}\hyperref [ch170201]{コピーキャプチャー} }{202}{subsection.17.2.1}
+\contentsline {subsection}{\numberline {17.2.2}\hyperref [ch170202]{リファレンスキャプチャー} }{202}{subsection.17.2.2}
+\contentsline {chapter}{\numberline {第18章}クラスの基本}{205}{chapter.18}
+\contentsline {section}{\numberline {18.1}\hyperref [ch1801]{変数をまとめる} }{205}{section.18.1}
+\contentsline {section}{\numberline {18.2}\hyperref [ch1802]{まとめた変数に関数を提供する} }{208}{section.18.2}
+\contentsline {chapter}{\numberline {第19章}より自然に振る舞うクラス}{215}{chapter.19}
+\contentsline {section}{\numberline {19.1}\hyperref [ch1901]{より自然な初期化} }{216}{section.19.1}
+\contentsline {section}{\numberline {19.2}\hyperref [ch1902]{自然な演算子} }{223}{section.19.2}
+\contentsline {section}{\numberline {19.3}\hyperref [ch1903]{演算子のオーバーロード} }{226}{section.19.3}
+\contentsline {subsection}{\numberline {19.3.1}\hyperref [ch190301]{二項演算子} }{226}{subsection.19.3.1}
+\contentsline {subsection}{\numberline {19.3.2}\hyperref [ch190302]{単項演算子} }{228}{subsection.19.3.2}
+\contentsline {subsection}{\numberline {19.3.3}\hyperref [ch190303]{インクリメント/デクリメント} }{230}{subsection.19.3.3}
+\contentsline {subsection}{\numberline {19.3.4}\hyperref [ch190304]{メンバー関数での演算子のオーバーロード} }{232}{subsection.19.3.4}
+\contentsline {chapter}{\numberline {第20章}std::array}{235}{chapter.20}
+\contentsline {chapter}{\numberline {第21章}プログラマーの三大美徳}{239}{chapter.21}
+\contentsline {chapter}{\numberline {第22章}配列}{241}{chapter.22}
+\contentsline {section}{\numberline {22.1}\hyperref [ch2201]{ナイーブなarray実装} }{241}{section.22.1}
+\contentsline {section}{\numberline {22.2}\hyperref [ch2202]{配列} }{242}{section.22.2}
+\contentsline {chapter}{\numberline {第23章}テンプレート}{247}{chapter.23}
+\contentsline {section}{\numberline {23.1}\hyperref [ch2301]{問題点} }{247}{section.23.1}
+\contentsline {section}{\numberline {23.2}\hyperref [ch2302]{関数の引数} }{248}{section.23.2}
+\contentsline {section}{\numberline {23.3}\hyperref [ch2303]{関数のテンプレート引数} }{248}{section.23.3}
+\contentsline {section}{\numberline {23.4}\hyperref [ch2304]{テンプレート} }{250}{section.23.4}
+\contentsline {section}{\numberline {23.5}\hyperref [ch2305]{クラステンプレート} }{253}{section.23.5}
+\contentsline {chapter}{\numberline {第24章}arrayをさらに実装}{255}{chapter.24}
+\contentsline {section}{\numberline {24.1}\hyperref [ch2401]{ネストされた型名} }{255}{section.24.1}
+\contentsline {section}{\numberline {24.2}\hyperref [ch2402]{要素数の取得: size()} }{256}{section.24.2}
+\contentsline {section}{\numberline {24.3}\hyperref [ch2403]{メンバー関数のconst修飾} }{257}{section.24.3}
+\contentsline {section}{\numberline {24.4}\hyperref [ch2404]{先頭と末尾の要素：front/back} }{262}{section.24.4}
+\contentsline {section}{\numberline {24.5}\hyperref [ch2405]{全要素に値を代入: fill} }{263}{section.24.5}
+\contentsline {chapter}{\numberline {第25章}arrayのイテレーター}{265}{chapter.25}
+\contentsline {section}{\numberline {25.1}\hyperref [ch2501]{イテレーターの中身} }{265}{section.25.1}
+\contentsline {section}{\numberline {25.2}\hyperref [ch2502]{残りのイテレーターの実装} }{277}{section.25.2}
+\contentsline {section}{\numberline {25.3}\hyperref [ch2503]{constなイテレーター: const\texttt {\_}iterator} }{279}{section.25.3}
+\contentsline {chapter}{\numberline {第26章}傲慢なエラー処理：例外}{285}{chapter.26}
+\contentsline {section}{\numberline {26.1}\hyperref [ch2601]{例外を投げる} }{285}{section.26.1}
+\contentsline {section}{\numberline {26.2}\hyperref [ch2602]{例外を捕まえる} }{289}{section.26.2}
+\contentsline {section}{\numberline {26.3}\hyperref [ch2603]{例外による巻き戻し} }{291}{section.26.3}
+\contentsline {chapter}{\numberline {第27章}ポインター}{295}{chapter.27}
+\contentsline {section}{\numberline {27.1}\hyperref [ch2701]{意味上のポインター} }{295}{section.27.1}
+\contentsline {subsection}{\numberline {27.1.1}\hyperref [ch270101]{リファレンスと同じ機能} }{295}{subsection.27.1.1}
+\contentsline {subsection}{\numberline {27.1.2}\hyperref [ch270102]{リファレンスと違う機能} }{297}{subsection.27.1.2}
+\contentsline {subsection}{\numberline {27.1.3}\hyperref [ch270103]{代入} }{297}{subsection.27.1.3}
+\contentsline {subsection}{\numberline {27.1.4}\hyperref [ch270104]{何も参照しない状態} }{298}{subsection.27.1.4}
+\contentsline {subsection}{\numberline {27.1.5}\hyperref [ch270105]{明示的に何も参照しないポインター: nullptr} }{299}{subsection.27.1.5}
+\contentsline {subsection}{\numberline {27.1.6}\hyperref [ch270106]{無効な参照先の作り方} }{299}{subsection.27.1.6}
+\contentsline {section}{\numberline {27.2}\hyperref [ch2702]{文法上のポインター} }{300}{section.27.2}
+\contentsline {subsection}{\numberline {27.2.1}\hyperref [ch270201]{ポインターとconstの関係} }{300}{subsection.27.2.1}
+\contentsline {subsection}{\numberline {27.2.2}\hyperref [ch270202]{ポインターのポインター} }{304}{subsection.27.2.2}
+\contentsline {subsection}{\numberline {27.2.3}\hyperref [ch270203]{関数へのポインター} }{307}{subsection.27.2.3}
+\contentsline {subsection}{\numberline {27.2.4}\hyperref [ch270204]{配列へのポインター} }{311}{subsection.27.2.4}
+\contentsline {subsection}{\numberline {27.2.5}\hyperref [ch270205]{ポインター型の作り方} }{311}{subsection.27.2.5}
+\contentsline {subsection}{\numberline {27.2.6}\hyperref [ch270206]{クラスへのポインター} }{314}{subsection.27.2.6}
+\contentsline {subsection}{\numberline {27.2.7}\hyperref [ch270207]{thisポインター} }{316}{subsection.27.2.7}
+\contentsline {subsection}{\numberline {27.2.8}\hyperref [ch270208]{メンバーへのポインター} }{318}{subsection.27.2.8}
+\contentsline {section}{\numberline {27.3}\hyperref [ch2703]{ポインターの内部実装} }{324}{section.27.3}
+\contentsline {subsection}{\numberline {27.3.1}\hyperref [ch270301]{キロバイトとキビバイト} }{324}{subsection.27.3.1}
+\contentsline {subsection}{\numberline {27.3.2}\hyperref [ch270302]{メモリーとアドレス} }{325}{subsection.27.3.2}
+\contentsline {subsection}{\numberline {27.3.3}\hyperref [ch270303]{ポインターのサイズ} }{325}{subsection.27.3.3}
+\contentsline {subsection}{\numberline {27.3.4}\hyperref [ch270304]{ポインターの値} }{326}{subsection.27.3.4}
+\contentsline {subsection}{\numberline {27.3.5}\hyperref [ch270305]{std::bit\texttt {\_}castの実装} }{328}{subsection.27.3.5}
+\contentsline {subsection}{\numberline {27.3.6}\hyperref [ch270306]{std::memcpyの実装} }{328}{subsection.27.3.6}
+\contentsline {subsubsection}{\hyperref [ch27030601]{void型} }{328}{section*.11}
+\contentsline {subsubsection}{\hyperref [ch27030602]{void *\tmspace +\thinmuskip {.1667em}型} }{329}{section*.12}
+\contentsline {subsubsection}{\hyperref [ch27030603]{std::byte型} }{330}{section*.13}
+\contentsline {subsubsection}{\hyperref [ch27030604]{配列のメモリー上での表現} }{331}{section*.14}
+\contentsline {subsubsection}{\hyperref [ch27030605]{ポインターと整数の演算} }{331}{section*.16}
+\contentsline {subsubsection}{\hyperref [ch27030606]{いよいよmemcpyの実装} }{332}{section*.17}
+\contentsline {subsubsection}{\hyperref [ch27030607]{memcpyの別の実装} }{333}{section*.18}
+\contentsline {subsection}{\numberline {27.3.7}\hyperref [ch270307]{データメンバーへのポインターの内部実装} }{334}{subsection.27.3.7}
+\contentsline {chapter}{\numberline {第28章}イテレーター詳細}{337}{chapter.28}
+\contentsline {section}{\numberline {28.1}\hyperref [ch2801]{イテレーターとポインターの関係} }{337}{section.28.1}
+\contentsline {section}{\numberline {28.2}\hyperref [ch2802]{イテレーターカテゴリー} }{338}{section.28.2}
+\contentsline {subsection}{\numberline {28.2.1}\hyperref [ch280201]{ランダムアクセスイテレーター} }{339}{subsection.28.2.1}
+\contentsline {subsection}{\numberline {28.2.2}\hyperref [ch280202]{双方向イテレーター} }{341}{subsection.28.2.2}
+\contentsline {subsection}{\numberline {28.2.3}\hyperref [ch280203]{前方イテレーター} }{342}{subsection.28.2.3}
+\contentsline {subsection}{\numberline {28.2.4}\hyperref [ch280204]{入力イテレーター} }{342}{subsection.28.2.4}
+\contentsline {subsection}{\numberline {28.2.5}\hyperref [ch280205]{出力イテレーター} }{343}{subsection.28.2.5}
+\contentsline {section}{\numberline {28.3}\hyperref [ch2803]{iterator\texttt {\_}traits} }{343}{section.28.3}
+\contentsline {section}{\numberline {28.4}\hyperref [ch2804]{イテレーターカテゴリーの実例} }{346}{section.28.4}
+\contentsline {subsection}{\numberline {28.4.1}\hyperref [ch280401]{出力イテレーター} }{346}{subsection.28.4.1}
+\contentsline {subsection}{\numberline {28.4.2}\hyperref [ch280402]{入力イテレーター} }{349}{subsection.28.4.2}
+\contentsline {subsection}{\numberline {28.4.3}\hyperref [ch280403]{前方イテレーター} }{352}{subsection.28.4.3}
+\contentsline {subsection}{\numberline {28.4.4}\hyperref [ch280404]{双方向イテレーター} }{356}{subsection.28.4.4}
+\contentsline {subsection}{\numberline {28.4.5}\hyperref [ch280405]{ランダムアクセスイテレーター} }{358}{subsection.28.4.5}
+\contentsline {section}{\numberline {28.5}\hyperref [ch2805]{イテレーター操作} }{362}{section.28.5}
+\contentsline {subsection}{\numberline {28.5.1}\hyperref [ch280501]{advance( i, n ): n移動する} }{362}{subsection.28.5.1}
+\contentsline {subsection}{\numberline {28.5.2}\hyperref [ch280502]{distance(first, last): firstからlastまでの距離} }{363}{subsection.28.5.2}
+\contentsline {subsection}{\numberline {28.5.3}\hyperref [ch280503]{next/prev : 移動したイテレーターを返す} }{363}{subsection.28.5.3}
+\contentsline {section}{\numberline {28.6}\hyperref [ch2806]{リバースイテレーター} }{365}{section.28.6}
+\contentsline {chapter}{\numberline {第29章}動的メモリー確保}{367}{chapter.29}
+\contentsline {section}{\numberline {29.1}\hyperref [ch2901]{概要} }{367}{section.29.1}
+\contentsline {section}{\numberline {29.2}\hyperref [ch2902]{malloc/free} }{368}{section.29.2}
+\contentsline {section}{\numberline {29.3}\hyperref [ch2903]{operator new/operator delete} }{368}{section.29.3}
+\contentsline {section}{\numberline {29.4}\hyperref [ch2904]{生のバイト列を基本的な型の値として使う方法} }{368}{section.29.4}
+\contentsline {section}{\numberline {29.5}\hyperref [ch2905]{メモリー確保の失敗} }{369}{section.29.5}
+\contentsline {section}{\numberline {29.6}\hyperref [ch2906]{クラス型の値の構築} }{370}{section.29.6}
+\contentsline {section}{\numberline {29.7}\hyperref [ch2907]{new/delete} }{373}{section.29.7}
+\contentsline {section}{\numberline {29.8}\hyperref [ch2908]{配列版new/delete} }{373}{section.29.8}
+\contentsline {section}{\numberline {29.9}\hyperref [ch2909]{スマートポインター} }{374}{section.29.9}
+\contentsline {chapter}{\numberline {第30章}vectorの実装：基礎}{375}{chapter.30}
+\contentsline {section}{\numberline {30.1}\hyperref [ch3001]{std::allocator\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}の概要} }{376}{section.30.1}
+\contentsline {section}{\numberline {30.2}\hyperref [ch3002]{std::allocator\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}の使い方} }{376}{section.30.2}
+\contentsline {section}{\numberline {30.3}\hyperref [ch3003]{std::allocator\texttt {\_}traits\texttt {<}Alloc\texttt {>}} }{378}{section.30.3}
+\contentsline {section}{\numberline {30.4}\hyperref [ch3004]{簡易vectorの概要} }{380}{section.30.4}
+\contentsline {section}{\numberline {30.5}\hyperref [ch3005]{classとアクセス指定} }{381}{section.30.5}
+\contentsline {section}{\numberline {30.6}\hyperref [ch3006]{ネストされた型名} }{384}{section.30.6}
+\contentsline {section}{\numberline {30.7}\hyperref [ch3007]{簡易vectorのデータメンバー} }{385}{section.30.7}
+\contentsline {section}{\numberline {30.8}\hyperref [ch3008]{簡単なメンバー関数の実装} }{387}{section.30.8}
+\contentsline {subsection}{\numberline {30.8.1}\hyperref [ch300801]{イテレーター} }{387}{subsection.30.8.1}
+\contentsline {subsection}{\numberline {30.8.2}\hyperref [ch300802]{容量確認} }{390}{subsection.30.8.2}
+\contentsline {subsection}{\numberline {30.8.3}\hyperref [ch300803]{要素アクセス} }{391}{subsection.30.8.3}
+\contentsline {subsubsection}{\hyperref [ch30080301]{operator \texttt {[]}} }{391}{section*.20}
+\contentsline {subsubsection}{\hyperref [ch30080302]{at} }{392}{section*.21}
+\contentsline {subsubsection}{\hyperref [ch30080303]{front/back} }{392}{section*.22}
+\contentsline {subsubsection}{\hyperref [ch30080304]{data} }{393}{section*.23}
+\contentsline {chapter}{\numberline {第31章}vectorの実装：メモリー確保}{395}{chapter.31}
+\contentsline {section}{\numberline {31.1}\hyperref [ch3101]{メモリー確保と解放の起こるタイミング} }{395}{section.31.1}
+\contentsline {section}{\numberline {31.2}\hyperref [ch3102]{デフォルトコンストラクター} }{398}{section.31.2}
+\contentsline {section}{\numberline {31.3}\hyperref [ch3103]{アロケーターを取るコンストラクター} }{398}{section.31.3}
+\contentsline {section}{\numberline {31.4}\hyperref [ch3104]{要素数と初期値を取るコンストラクターの実装} }{399}{section.31.4}
+\contentsline {section}{\numberline {31.5}\hyperref [ch3105]{ヘルパー関数} }{399}{section.31.5}
+\contentsline {subsection}{\numberline {31.5.1}\hyperref [ch310501]{ネストされた型名traits} }{399}{subsection.31.5.1}
+\contentsline {subsection}{\numberline {31.5.2}\hyperref [ch310502]{allocate/deallocate} }{400}{subsection.31.5.2}
+\contentsline {subsection}{\numberline {31.5.3}\hyperref [ch310503]{construct/destroy} }{400}{subsection.31.5.3}
+\contentsline {subsection}{\numberline {31.5.4}\hyperref [ch310504]{destroy\texttt {\_}until} }{400}{subsection.31.5.4}
+\contentsline {section}{\numberline {31.6}\hyperref [ch3106]{clear} }{402}{section.31.6}
+\contentsline {section}{\numberline {31.7}\hyperref [ch3107]{デストラクター} }{402}{section.31.7}
+\contentsline {section}{\numberline {31.8}\hyperref [ch3108]{reserveの実装} }{402}{section.31.8}
+\contentsline {section}{\numberline {31.9}\hyperref [ch3109]{resize} }{406}{section.31.9}
+\contentsline {section}{\numberline {31.10}\hyperref [ch3110]{push\texttt {\_}back} }{408}{section.31.10}
+\contentsline {subsection}{\numberline {31.10.1}\hyperref [ch311001]{shrink\texttt {\_}to\texttt {\_}fit} }{410}{subsection.31.10.1}
+\contentsline {section}{\numberline {31.11}\hyperref [ch3111]{vectorのその他のコンストラクター} }{412}{section.31.11}
+\contentsline {subsection}{\numberline {31.11.1}\hyperref [ch311101]{イテレーターのペア} }{412}{subsection.31.11.1}
+\contentsline {subsection}{\numberline {31.11.2}\hyperref [ch311102]{初期化リスト} }{413}{subsection.31.11.2}
+\contentsline {chapter}{\numberline {第32章}コピー}{415}{chapter.32}
+\contentsline {section}{\numberline {32.1}\hyperref [ch3201]{普通のコピー} }{415}{section.32.1}
+\contentsline {section}{\numberline {32.2}\hyperref [ch3202]{コピーコンストラクター} }{417}{section.32.2}
+\contentsline {section}{\numberline {32.3}\hyperref [ch3203]{コピー代入演算子} }{418}{section.32.3}
+\contentsline {section}{\numberline {32.4}\hyperref [ch3204]{コピーの挙動} }{419}{section.32.4}
+\contentsline {section}{\numberline {32.5}\hyperref [ch3205]{所有するクラス} }{421}{section.32.5}
+\contentsline {section}{\numberline {32.6}\hyperref [ch3206]{own\texttt {<}U\texttt {>}\tmspace +\thinmuskip {.1667em}からown\texttt {<}T\texttt {>}\tmspace +\thinmuskip {.1667em}への変換} }{423}{section.32.6}
+\contentsline {section}{\numberline {32.7}\hyperref [ch3207]{もう少し複雑な所有するクラス} }{424}{section.32.7}
+\contentsline {section}{\numberline {32.8}\hyperref [ch3208]{vectorのコピー} }{426}{section.32.8}
+\contentsline {subsection}{\numberline {32.8.1}\hyperref [ch320801]{コピーコンストラクター} }{426}{subsection.32.8.1}
+\contentsline {subsection}{\numberline {32.8.2}\hyperref [ch320802]{コピー代入演算子} }{427}{subsection.32.8.2}
+\contentsline {chapter}{\numberline {第33章}ムーブ}{431}{chapter.33}
+\contentsline {section}{\numberline {33.1}\hyperref [ch3301]{ムーブの使い方} }{431}{section.33.1}
+\contentsline {section}{\numberline {33.2}\hyperref [ch3302]{ムーブの中身} }{433}{section.33.2}
+\contentsline {chapter}{\numberline {第34章}rvalueリファレンス}{437}{chapter.34}
+\contentsline {section}{\numberline {34.1}\hyperref [ch3401]{概要} }{437}{section.34.1}
+\contentsline {section}{\numberline {34.2}\hyperref [ch3402]{rvalueリファレンスの宣言} }{437}{section.34.2}
+\contentsline {section}{\numberline {34.3}\hyperref [ch3403]{値カテゴリー} }{440}{section.34.3}
+\contentsline {subsection}{\numberline {34.3.1}\hyperref [ch340301]{lvalue} }{440}{subsection.34.3.1}
+\contentsline {subsection}{\numberline {34.3.2}\hyperref [ch340302]{prvalue} }{440}{subsection.34.3.2}
+\contentsline {subsection}{\numberline {34.3.3}\hyperref [ch340303]{xvalue} }{441}{subsection.34.3.3}
+\contentsline {subsection}{\numberline {34.3.4}\hyperref [ch340304]{rvalue} }{442}{subsection.34.3.4}
+\contentsline {subsection}{\numberline {34.3.5}\hyperref [ch340305]{glvalue} }{443}{subsection.34.3.5}
+\contentsline {section}{\numberline {34.4}\hyperref [ch3404]{rvalueリファレンスのライブラリ} }{444}{section.34.4}
+\contentsline {subsection}{\numberline {34.4.1}\hyperref [ch340401]{std::move} }{444}{subsection.34.4.1}
+\contentsline {subsection}{\numberline {34.4.2}\hyperref [ch340402]{std::moveの実装} }{444}{subsection.34.4.2}
+\contentsline {subsection}{\numberline {34.4.3}\hyperref [ch340403]{フォワーディングリファレンス} }{445}{subsection.34.4.3}
+\contentsline {subsection}{\numberline {34.4.4}\hyperref [ch340404]{std::remove\texttt {\_}reference\texttt {\_}t} }{446}{subsection.34.4.4}
+\contentsline {subsection}{\numberline {34.4.5}\hyperref [ch340405]{std::moveの正しい実装} }{447}{subsection.34.4.5}
+\contentsline {subsection}{\numberline {34.4.6}\hyperref [ch340406]{std::forward} }{447}{subsection.34.4.6}
+\contentsline {chapter}{\numberline {第35章}ムーブの実装}{451}{chapter.35}
+\contentsline {section}{\numberline {35.1}\hyperref [ch3501]{コピーとムーブの判別} }{452}{section.35.1}
+\contentsline {section}{\numberline {35.2}\hyperref [ch3502]{ムーブの実装} }{453}{section.35.2}
+\contentsline {subsection}{\numberline {35.2.1}\hyperref [ch350201]{ムーブコンストラクター} }{454}{subsection.35.2.1}
+\contentsline {subsection}{\numberline {35.2.2}\hyperref [ch350202]{ムーブ代入演算子} }{454}{subsection.35.2.2}
+\contentsline {section}{\numberline {35.3}\hyperref [ch3503]{デフォルトのムーブ} }{457}{section.35.3}
+\contentsline {section}{\numberline {35.4}\hyperref [ch3504]{コピーの禁止} }{457}{section.35.4}
+\contentsline {section}{\numberline {35.5}\hyperref [ch3505]{5原則} }{458}{section.35.5}
+\contentsline {chapter}{\numberline {第36章}スマートポインター}{461}{chapter.36}
+\contentsline {section}{\numberline {36.1}\hyperref [ch3601]{unique\texttt {\_}ptr} }{461}{section.36.1}
+\contentsline {section}{\numberline {36.2}\hyperref [ch3602]{shared\texttt {\_}ptr} }{464}{section.36.2}
+\contentsline {chapter}{\numberline {第37章}自作の数値クラスで演算をムーブに対応する方法}{469}{chapter.37}
+\contentsline {section}{\numberline {37.1}\hyperref [ch3701]{基本の実装} }{469}{section.37.1}
+\contentsline {section}{\numberline {37.2}\hyperref [ch3702]{複合代入演算子} }{471}{section.37.2}
+\contentsline {section}{\numberline {37.3}\hyperref [ch3703]{単項演算子} }{472}{section.37.3}
+\contentsline {section}{\numberline {37.4}\hyperref [ch3704]{二項演算子} }{477}{section.37.4}
+\contentsline {subsection}{\numberline {37.4.1}\hyperref [ch370401]{ムーブしない実装} }{477}{subsection.37.4.1}
+\contentsline {subsection}{\numberline {37.4.2}\hyperref [ch370402]{ムーブをしたくなる状況} }{479}{subsection.37.4.2}
+\contentsline {chapter}{\numberline {第38章}文字列}{483}{chapter.38}
+\contentsline {section}{\numberline {38.1}\hyperref [ch3801]{はじめに} }{483}{section.38.1}
+\contentsline {section}{\numberline {38.2}\hyperref [ch3802]{基本ソース文字セット} }{483}{section.38.2}
+\contentsline {section}{\numberline {38.3}\hyperref [ch3803]{基本実行文字セット} }{484}{section.38.3}
+\contentsline {section}{\numberline {38.4}\hyperref [ch3804]{文字を表現する方法} }{484}{section.38.4}
+\contentsline {subsection}{\numberline {38.4.1}\hyperref [ch380401]{ASCII} }{484}{subsection.38.4.1}
+\contentsline {subsection}{\numberline {38.4.2}\hyperref [ch380402]{Unicode} }{484}{subsection.38.4.2}
+\contentsline {subsubsection}{\hyperref [ch38040201]{UTF--16} }{484}{section*.25}
+\contentsline {subsubsection}{\hyperref [ch38040202]{UTF--32} }{484}{section*.26}
+\contentsline {subsubsection}{\hyperref [ch38040203]{エンディアンの問題} }{485}{section*.27}
+\contentsline {subsubsection}{\hyperref [ch38040204]{UTF--8} }{486}{section*.28}
+\contentsline {section}{\numberline {38.5}\hyperref [ch3805]{OS} }{486}{section.38.5}
+\contentsline {section}{\numberline {38.6}\hyperref [ch3806]{リテラル} }{486}{section.38.6}
+\contentsline {subsection}{\numberline {38.6.1}\hyperref [ch380601]{通常の文字リテラル} }{486}{subsection.38.6.1}
+\contentsline {subsection}{\numberline {38.6.2}\hyperref [ch380602]{ユニバーサルキャラクター名} }{487}{subsection.38.6.2}
+\contentsline {subsection}{\numberline {38.6.3}\hyperref [ch380603]{通常の文字列リテラル} }{487}{subsection.38.6.3}
+\contentsline {section}{\numberline {38.7}\hyperref [ch3807]{ワイド文字} }{489}{section.38.7}
+\contentsline {section}{\numberline {38.8}\hyperref [ch3808]{UTF--8/UTF--16/UTF--32} }{490}{section.38.8}
+\contentsline {section}{\numberline {38.9}\hyperref [ch3809]{生文字列リテラル} }{491}{section.38.9}
+\contentsline {section}{\numberline {38.10}\hyperref [ch3810]{文字列の表現方法} }{492}{section.38.10}
+\contentsline {subsection}{\numberline {38.10.1}\hyperref [ch381001]{null終端文字列} }{492}{subsection.38.10.1}
+\contentsline {subsection}{\numberline {38.10.2}\hyperref [ch381002]{std::basic\texttt {\_}string} }{493}{subsection.38.10.2}
+\contentsline {subsection}{\numberline {38.10.3}\hyperref [ch381003]{std::basic\texttt {\_}string\texttt {\_}view} }{495}{subsection.38.10.3}
+\contentsline {section}{\numberline {38.11}\hyperref [ch3811]{文字列の操作} }{497}{section.38.11}
+\contentsline {subsection}{\numberline {38.11.1}\hyperref [ch381101]{null終端文字列の操作} }{497}{subsection.38.11.1}
+\contentsline {subsection}{\numberline {38.11.2}\hyperref [ch381102]{basic\texttt {\_}stringの操作} }{499}{subsection.38.11.2}
+\contentsline {subsubsection}{\hyperref [ch38110201]{初期化} }{500}{section*.29}
+\contentsline {subsubsection}{\hyperref [ch38110202]{結合} }{500}{section*.30}
+\contentsline {subsubsection}{\hyperref [ch38110203]{イテレーター} }{500}{section*.31}
+\contentsline {subsubsection}{\hyperref [ch38110204]{部分文字列の検索} }{501}{section*.32}
+\contentsline {subsubsection}{\hyperref [ch38110205]{その他のメンバー関数} }{503}{section*.33}
+\contentsline {subsubsection}{\hyperref [ch38110206]{文字列の挿入} }{503}{section*.34}
+\contentsline {subsubsection}{\hyperref [ch38110207]{部分文字列の削除} }{504}{section*.35}
+\contentsline {subsubsection}{\hyperref [ch38110208]{部分文字列の置換} }{505}{section*.36}
+\contentsline {subsubsection}{\hyperref [ch38110209]{その他の推奨できない操作} }{505}{section*.37}
+\contentsline {subsection}{\numberline {38.11.3}\hyperref [ch381103]{basic\texttt {\_}string\texttt {\_}viewの操作} }{506}{subsection.38.11.3}
+\contentsline {chapter}{\numberline {第39章}乱数}{509}{chapter.39}
+\contentsline {section}{\numberline {39.1}\hyperref [ch3901]{疑似乱数} }{509}{section.39.1}
+\contentsline {section}{\numberline {39.2}\hyperref [ch3902]{乱数エンジン} }{510}{section.39.2}
+\contentsline {section}{\numberline {39.3}\hyperref [ch3903]{乱数分布} }{511}{section.39.3}
+\contentsline {section}{\numberline {39.4}\hyperref [ch3904]{シード} }{513}{section.39.4}
+\contentsline {section}{\numberline {39.5}\hyperref [ch3905]{予測不可能な乱数} }{514}{section.39.5}
+\contentsline {section}{\numberline {39.6}\hyperref [ch3906]{十分なシード値の量} }{516}{section.39.6}
+\contentsline {section}{\numberline {39.7}\hyperref [ch3907]{乱数分布ライブラリ} }{517}{section.39.7}
+\contentsline {section}{\numberline {39.8}\hyperref [ch3908]{分布クラス} }{518}{section.39.8}
+\contentsline {section}{\numberline {39.9}\hyperref [ch3909]{一様分布(Uniform Distribution)} }{520}{section.39.9}
+\contentsline {subsection}{\numberline {39.9.1}\hyperref [ch390901]{整数の一様分布(std::uniform\texttt {\_}int\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{520}{subsection.39.9.1}
+\contentsline {subsection}{\numberline {39.9.2}\hyperref [ch390902]{浮動小数点数の一様分布(uniform\texttt {\_}real\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{521}{subsection.39.9.2}
+\contentsline {section}{\numberline {39.10}\hyperref [ch3910]{ベルヌーイ分布(Bernoulli distributions)} }{521}{section.39.10}
+\contentsline {subsection}{\numberline {39.10.1}\hyperref [ch391001]{ベルヌーイ試行} }{521}{subsection.39.10.1}
+\contentsline {subsection}{\numberline {39.10.2}\hyperref [ch391002]{ベルヌーイ分布(std::bernoulli\texttt {\_}distribution)} }{522}{subsection.39.10.2}
+\contentsline {subsection}{\numberline {39.10.3}\hyperref [ch391003]{二項分布(std::binomial\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{524}{subsection.39.10.3}
+\contentsline {subsection}{\numberline {39.10.4}\hyperref [ch391004]{幾何分布(std::geometric\texttt {\_}distribution)} }{526}{subsection.39.10.4}
+\contentsline {subsection}{\numberline {39.10.5}\hyperref [ch391005]{負の二項分布(std::negative\texttt {\_}binomial\texttt {\_}distribution)} }{528}{subsection.39.10.5}
+\contentsline {section}{\numberline {39.11}\hyperref [ch3911]{ポアソン分布} }{530}{section.39.11}
+\contentsline {subsection}{\numberline {39.11.1}\hyperref [ch391101]{ポアソン分布(poisson\texttt {\_}distribution)} }{530}{subsection.39.11.1}
+\contentsline {subsection}{\numberline {39.11.2}\hyperref [ch391102]{指数分布(std::exponential\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{531}{subsection.39.11.2}
+\contentsline {subsection}{\numberline {39.11.3}\hyperref [ch391103]{ガンマ分布(std::gamma\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{533}{subsection.39.11.3}
+\contentsline {subsection}{\numberline {39.11.4}\hyperref [ch391104]{ウェイブル分布(std::weibull\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{533}{subsection.39.11.4}
+\contentsline {section}{\numberline {39.12}\hyperref [ch3912]{極値分布(std::extreme\texttt {\_}value\texttt {\_}distribution{\penalty \z@ }\texttt {<}RealType\texttt {>})} }{534}{section.39.12}
+\contentsline {section}{\numberline {39.13}\hyperref [ch3913]{正規分布} }{534}{section.39.13}
+\contentsline {subsection}{\numberline {39.13.1}\hyperref [ch391301]{正規分布(std::normal\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{534}{subsection.39.13.1}
+\contentsline {subsection}{\numberline {39.13.2}\hyperref [ch391302]{対数正規分布(std::lognormal\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{535}{subsection.39.13.2}
+\contentsline {subsection}{\numberline {39.13.3}\hyperref [ch391303]{カイ二乗分布(std::chi\texttt {\_}squared\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{535}{subsection.39.13.3}
+\contentsline {subsection}{\numberline {39.13.4}\hyperref [ch391304]{コーシー分布(std::cauchy\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{536}{subsection.39.13.4}
+\contentsline {subsection}{\numberline {39.13.5}\hyperref [ch391305]{フィッシャーの\(F\)分布(std::fisher\texttt {\_}f\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{536}{subsection.39.13.5}
+\contentsline {subsection}{\numberline {39.13.6}\hyperref [ch391306]{スチューデントの\(t\)分布(std::student\texttt {\_}t\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{537}{subsection.39.13.6}
+\contentsline {section}{\numberline {39.14}\hyperref [ch3914]{サンプリング分布(sampling distributions)} }{537}{section.39.14}
+\contentsline {subsection}{\numberline {39.14.1}\hyperref [ch391401]{離散分布(std::discrete\texttt {\_}distribution\texttt {<}IntType\texttt {>})} }{538}{subsection.39.14.1}
+\contentsline {subsubsection}{\hyperref [ch39140101]{簡単な説明} }{538}{section*.38}
+\contentsline {subsubsection}{\hyperref [ch39140102]{数学的な説明} }{538}{section*.39}
+\contentsline {subsubsection}{\hyperref [ch39140103]{変数の宣言} }{538}{section*.40}
+\contentsline {subsubsection}{\hyperref [ch39140104]{初期化パラメーターの確認} }{540}{section*.41}
+\contentsline {subsubsection}{\hyperref [ch39140105]{応用例} }{540}{section*.42}
+\contentsline {subsection}{\numberline {39.14.2}\hyperref [ch391402]{区分定数分布(std::piecewise\texttt {\_}constant\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{540}{subsection.39.14.2}
+\contentsline {subsubsection}{\hyperref [ch39140201]{簡単な説明} }{540}{section*.43}
+\contentsline {subsubsection}{\hyperref [ch39140202]{数学的な説明} }{541}{section*.44}
+\contentsline {subsubsection}{\hyperref [ch39140203]{変数の宣言} }{541}{section*.45}
+\contentsline {subsubsection}{\hyperref [ch39140204]{内部状態の取得} }{543}{section*.46}
+\contentsline {subsection}{\numberline {39.14.3}\hyperref [ch391403]{区分線形分布(std::piecewise\texttt {\_}linear\texttt {\_}distribution\texttt {<}RealType\texttt {>})} }{544}{subsection.39.14.3}
+\contentsline {subsubsection}{\hyperref [ch39140301]{簡単な説明} }{544}{section*.47}
+\contentsline {subsubsection}{\hyperref [ch39140302]{数学的な説明} }{544}{section*.49}
+\contentsline {subsubsection}{\hyperref [ch39140303]{変数の宣言} }{545}{section*.50}
+\contentsline {chapter}{\numberline {第40章}Cプリプロセッサー}{549}{chapter.40}
+\contentsline {section}{\numberline {40.1}\hyperref [ch4001]{\#includeディレクティブ} }{549}{section.40.1}
+\contentsline {section}{\numberline {40.2}\hyperref [ch4002]{\#define} }{552}{section.40.2}
+\contentsline {subsection}{\numberline {40.2.1}\hyperref [ch400201]{オブジェクト風マクロ} }{552}{subsection.40.2.1}
+\contentsline {subsection}{\numberline {40.2.2}\hyperref [ch400202]{関数風マクロ} }{553}{subsection.40.2.2}
+\contentsline {subsection}{\numberline {40.2.3}\hyperref [ch400203]{\texttt {\_}\texttt {\_}VA\texttt {\_}ARGS\texttt {\_}\texttt {\_} (可変長引数マクロ)} }{554}{subsection.40.2.3}
+\contentsline {subsection}{\numberline {40.2.4}\hyperref [ch400204]{\texttt {\_}\texttt {\_}VA\texttt {\_}OPT\texttt {\_}\texttt {\_}} }{555}{subsection.40.2.4}
+\contentsline {subsection}{\numberline {40.2.5}\hyperref [ch400205]{\#演算子} }{555}{subsection.40.2.5}
+\contentsline {subsection}{\numberline {40.2.6}\hyperref [ch400206]{\#\#演算子} }{556}{subsection.40.2.6}
+\contentsline {subsection}{\numberline {40.2.7}\hyperref [ch400207]{複数行の置換リスト} }{556}{subsection.40.2.7}
+\contentsline {subsection}{\numberline {40.2.8}\hyperref [ch400208]{\#undefディレクティブ} }{557}{subsection.40.2.8}
+\contentsline {section}{\numberline {40.3}\hyperref [ch4003]{条件付きソースファイル選択} }{557}{section.40.3}
+\contentsline {subsection}{\numberline {40.3.1}\hyperref [ch400301]{プリプロセッサーの定数式} }{557}{subsection.40.3.1}
+\contentsline {subsection}{\numberline {40.3.2}\hyperref [ch400302]{\#ifディレクティブ} }{559}{subsection.40.3.2}
+\contentsline {subsection}{\numberline {40.3.3}\hyperref [ch400303]{\#elifディレクティブ} }{560}{subsection.40.3.3}
+\contentsline {subsection}{\numberline {40.3.4}\hyperref [ch400304]{\#elseディレクティブ} }{561}{subsection.40.3.4}
+\contentsline {subsection}{\numberline {40.3.5}\hyperref [ch400305]{\#ifdef, \#ifndefディレクティブ} }{561}{subsection.40.3.5}
+\contentsline {section}{\numberline {40.4}\hyperref [ch4004]{\#lineディレクティブ} }{562}{section.40.4}
+\contentsline {section}{\numberline {40.5}\hyperref [ch4005]{\#errorディレクティブ} }{563}{section.40.5}
+\contentsline {section}{\numberline {40.6}\hyperref [ch4006]{\#pragma} }{563}{section.40.6}
+\contentsline {section}{\numberline {40.7}\hyperref [ch4007]{Nullディレクティブ} }{563}{section.40.7}
+\contentsline {section}{\numberline {40.8}\hyperref [ch4008]{定義済みマクロ名} }{563}{section.40.8}
+\contentsline {chapter}{\numberline {第41章}分割コンパイル}{565}{chapter.41}
+\contentsline {subsection}{\numberline {41.0.1}\hyperref [ch410001]{ソースファイルとコンパイル} }{565}{subsection.41.0.1}
+\contentsline {subsection}{\numberline {41.0.2}\hyperref [ch410002]{単一のソースファイルのコンパイル} }{565}{subsection.41.0.2}
+\contentsline {subsection}{\numberline {41.0.3}\hyperref [ch410003]{ヘッダーファイルはコピペ} }{565}{subsection.41.0.3}
+\contentsline {subsection}{\numberline {41.0.4}\hyperref [ch410004]{複数のソースファイルのコンパイル} }{566}{subsection.41.0.4}
+\contentsline {section}{\numberline {41.1}\hyperref [ch4101]{オブジェクトファイル} }{566}{section.41.1}
+\contentsline {section}{\numberline {41.2}\hyperref [ch4102]{複数のソースファイルの書き方} }{568}{section.41.2}
+\contentsline {subsection}{\numberline {41.2.1}\hyperref [ch410201]{関数} }{568}{subsection.41.2.1}
+\contentsline {subsection}{\numberline {41.2.2}\hyperref [ch410202]{変数} }{570}{subsection.41.2.2}
+\contentsline {subsection}{\numberline {41.2.3}\hyperref [ch410203]{インライン関数/インライン変数} }{571}{subsection.41.2.3}
+\contentsline {subsection}{\numberline {41.2.4}\hyperref [ch410204]{クラス} }{573}{subsection.41.2.4}
+\contentsline {paragraph}{\hyperref [ch4102040001]{staticメンバー} }{575}{section*.52}
+\contentsline {subsection}{\numberline {41.2.5}\hyperref [ch410205]{テンプレート} }{577}{subsection.41.2.5}
+\contentsline {chapter}{\numberline {第42章}デバッガー}{579}{chapter.42}
+\contentsline {section}{\numberline {42.1}\hyperref [ch4201]{GDBのチュートリアル} }{580}{section.42.1}
+\contentsline {section}{\numberline {42.2}\hyperref [ch4202]{プログラムの実行} }{583}{section.42.2}
+\contentsline {section}{\numberline {42.3}\hyperref [ch4203]{プログラムの停止方法} }{583}{section.42.3}
+\contentsline {subsection}{\numberline {42.3.1}\hyperref [ch420301]{ブレイクポイント} }{583}{subsection.42.3.1}
+\contentsline {subsubsection}{\hyperref [ch42030101]{行番号へのブレイクポイント} }{583}{section*.53}
+\contentsline {subsubsection}{\hyperref [ch42030102]{ブレイクポイントの確認} }{584}{section*.54}
+\contentsline {subsubsection}{\hyperref [ch42030103]{ブレイクポイントの削除} }{584}{section*.55}
+\contentsline {subsubsection}{\hyperref [ch42030104]{ブレイクポイントの有効/無効} }{584}{section*.56}
+\contentsline {subsubsection}{\hyperref [ch42030105]{関数名へのブレイクポイント} }{585}{section*.57}
+\contentsline {subsection}{\numberline {42.3.2}\hyperref [ch420302]{条件付きブレイクポイント} }{586}{subsection.42.3.2}
+\contentsline {section}{\numberline {42.4}\hyperref [ch4204]{プログラムの実行再開とステップ実行} }{587}{section.42.4}
+\contentsline {subsection}{\numberline {42.4.1}\hyperref [ch420401]{実行再開(continue)} }{587}{subsection.42.4.1}
+\contentsline {subsection}{\numberline {42.4.2}\hyperref [ch420402]{ステップ実行(step)} }{587}{subsection.42.4.2}
+\contentsline {subsection}{\numberline {42.4.3}\hyperref [ch420403]{ネクスト実行(next)} }{588}{subsection.42.4.3}
+\contentsline {subsection}{\numberline {42.4.4}\hyperref [ch420404]{関数から抜けるまで実行(finish)} }{589}{subsection.42.4.4}
+\contentsline {section}{\numberline {42.5}\hyperref [ch4205]{バックトレース} }{590}{section.42.5}
+\contentsline {section}{\numberline {42.6}\hyperref [ch4206]{変数の値を確認} }{592}{section.42.6}
+\contentsline {section}{\numberline {42.7}\hyperref [ch4207]{シグナルによるプログラムの中断} }{593}{section.42.7}
+\contentsline {section}{\numberline {42.8}\hyperref [ch4208]{コアダンプを使ったプログラムの状態の確認} }{594}{section.42.8}
+\contentsline {chapter}{索引}{595}{lstnumber.-1998.10}
+\contentsline {subsubsection}{\hyperref [about-the-author]{著者プロフィール} }{603}{section*.58}
+\contentsline {chapter}{著者プロフィール}{603}{section*.58}

@@ -9,4 +9,5 @@ mendex -U -s indexstyle.ist -o cpp-intro.ind cpp-intro.idx
 uplatex -kanji=utf8 cpp-intro
 
 uplatex -kanji=utf8 cpp-intro
+sleep 1
 dvipdfmx cpp-intro
