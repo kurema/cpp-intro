@@ -140,6 +140,7 @@
     \subitem 先頭の要素, \hyperpage{262}
     \subitem 末尾の要素, \hyperpage{262}
     \subitem 要素数, \hyperpage{256}
+  \item array, \hyperpage{595}
   \item ASCII, \hyperpage{484}
   \item ASLR（Address Space Layout Randomization）, \hyperpage{327}
   \item \texttt{at}, \hyperpage{107}, \hyperpage{236}, \hyperpage{392}
@@ -283,6 +284,7 @@
   \item \texttt{find}, \hyperpage{184}, \hyperpage{501}
   \item \texttt{find\_first\_of}, \hyperpage{506}
   \item \index{find\_if}, \hyperpage{184}
+  \item find\_if, \hyperpage{596}
   \item Fisher, Ronald Aylmer, \hyperpage{536}
   \item \texttt{fisher\_f\_distribution}, \hyperpage{536}
   \item \texttt{float}, \hyperpage{137}

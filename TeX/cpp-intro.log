@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.6-u1.20-141210-2.6 (utf8.uptex) (TeX Live 2015/Debian) (preloaded format=uplatex 2019.3.11)  12 OCT 2019 13:52
+This is e-upTeX, Version 3.14159265-p3.6-u1.20-141210-2.6 (utf8.uptex) (TeX Live 2015/Debian) (preloaded format=uplatex 2019.3.11)  13 OCT 2019 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1275,7 +1275,7 @@ Package caption Info: End \AtBeginDocument code.
  (./front.tex
 File: fig/C++_tobira.eps Graphic file (type eps)
  <fig/C++_tobira.eps>
-Overfull \hbox (538.7274pt too wide) detected at line 7
+Overfull \hbox (569.55377pt too wide) detected at line 7
  | [] 
  []
 
@@ -4710,4 +4710,4 @@ Here is how much of TeX's memory you used:
  269 hyphenation exceptions out of 8191
  40i,13n,58p,10340b,1977s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cpp-intro.dvi (621 pages, 5093844 bytes).
+Output written on cpp-intro.dvi (621 pages, 5094164 bytes).
