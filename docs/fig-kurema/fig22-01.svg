@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.0" id="レイヤー_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="296.5" height="75.826"
+	 viewBox="0 0 296.5 75.826" overflow="visible" enable-background="new 0 0 296.5 75.826" xml:space="preserve">
+<g>
+	<rect x="0.5" y="0.5" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<text transform="matrix(1 0 0 1 13.9004 8.0854)" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">1つが1バイトのストレージ</text>
+</g>
+<g>
+	<rect x="1" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="11" y1="42" x2="16" y2="42"/>
+	<rect x="16" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="26" y1="42" x2="31" y2="42"/>
+	<rect x="31" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="41" y1="42" x2="46" y2="42"/>
+	<rect x="46" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="56" y1="42" x2="61" y2="42"/>
+	<rect x="61" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="71" y1="42" x2="76" y2="42"/>
+	<rect x="76" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="86" y1="42" x2="91" y2="42"/>
+	<rect x="91" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="101" y1="42" x2="106" y2="42"/>
+	<rect x="106" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="116" y1="42" x2="121" y2="42"/>
+	<rect x="121" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="131" y1="42" x2="136" y2="42"/>
+	<rect x="136" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="146" y1="42" x2="151" y2="42"/>
+	<rect x="151" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="161" y1="42" x2="166" y2="42"/>
+	<rect x="166" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="176" y1="42" x2="181" y2="42"/>
+	<rect x="181" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="191" y1="42" x2="196" y2="42"/>
+	<rect x="196" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="206" y1="42" x2="211" y2="42"/>
+	<rect x="211" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="221" y1="42" x2="226" y2="42"/>
+	<rect x="226" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<rect x="241" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="251" y1="42" x2="256" y2="42"/>
+	<rect x="256" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="266" y1="42" x2="271" y2="42"/>
+	<rect x="271" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="281" y1="42" x2="286" y2="42"/>
+	<rect x="286" y="37" fill="#FFFFFF" stroke="#000000" width="10" height="10"/>
+	<line fill="none" stroke="#000000" x1="236" y1="42" x2="241" y2="42"/>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="1" y1="49" x2="1" y2="59"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="26" y1="49" x2="26" y2="59"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="1" y1="54" x2="26" y2="54"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1 67.4414)"><tspan x="0" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">0番目</tspan><tspan x="20.392" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8" letter-spacing="2">の</tspan><tspan x="30.392" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">int</tspan></text>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="121" y1="49" x2="121" y2="59"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="146" y1="49" x2="146" y2="59"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="121" y1="54" x2="146" y2="54"/>
+	</g>
+	<text transform="matrix(1 0 0 1 121 67.4414)"><tspan x="0" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">4番目</tspan><tspan x="20.392" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8" letter-spacing="2">の</tspan><tspan x="30.393" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">int</tspan></text>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="31" y1="25" x2="31" y2="35"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="56" y1="25" x2="56" y2="35"/>
+		<line fill="none" stroke="#000000" stroke-width="0.5" x1="31" y1="30" x2="56" y2="30"/>
+	</g>
+	<text transform="matrix(1 0 0 1 31 22.6919)"><tspan x="0" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">1番目</tspan><tspan x="20.392" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8" letter-spacing="2">の</tspan><tspan x="30.392" y="0" font-family="'SourceHanSans-Normal-90ms-RKSJ-H'" font-size="8">int</tspan></text>
+</g>
+</svg>

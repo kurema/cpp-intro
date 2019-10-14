@@ -142,16 +142,7 @@ C++では`lvalue`と`rvalue`をこのような意味では使っていない。
 
 この関係を図示すると以下のようになる。
 
-~~~
-TODO: 図示
-
-        expression
-        /         \
-    glvalue     rvalue
-    /     \     /   \
-lvalue     xvalue   prvalue
-~~~
-fig/fig37-01.png
+![](fig-kurema/fig37-01.svg)
 
 
 ### lvalue

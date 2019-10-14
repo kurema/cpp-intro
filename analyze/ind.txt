@@ -1,0 +1,1920 @@
+<root>
+  <list header="数字・記号">
+    <item content="+∞">
+    </item>
+    <item content="+0.0">
+    </item>
+    <item content=",">
+    </item>
+    <item content="-=">
+    </item>
+    <item content="-&gt;">
+    </item>
+    <item content="-&gt;*">
+    </item>
+    <item content="-∞">
+    </item>
+    <item content="-0.0">
+    </item>
+    <item content=".">
+    </item>
+    <item content=".cpp">
+    </item>
+    <item content=".gch">
+    </item>
+    <item content=".h">
+    </item>
+    <item content="/">
+    </item>
+    <item content="//">
+    </item>
+    <item content="/=">
+    </item>
+    <item content="::">
+    </item>
+    <item content=";">
+    </item>
+    <item content="&lt;">
+    </item>
+    <item content="&lt;=">
+    </item>
+    <item content="&lt;&gt;">
+    </item>
+    <item content="=">
+    </item>
+    <item content="= default">
+    </item>
+    <item content="= delete">
+    </item>
+    <item content="==">
+    </item>
+    <item content="&gt;">
+    </item>
+    <item content="&gt;=">
+    </item>
+    <item content="[=]">
+    </item>
+    <item content="[[nodiscard]]">
+    </item>
+    <item content="[&]">
+    </item>
+    <item content="[]">
+    </item>
+    <item content="#">
+    </item>
+    <item content="##">
+    </item>
+    <item content="#define">
+    </item>
+    <item content="#elif">
+    </item>
+    <item content="#else">
+    </item>
+    <item content="#error">
+    </item>
+    <item content="#if">
+    </item>
+    <item content="#ifdef">
+    </item>
+    <item content="#ifndef">
+    </item>
+    <item content="#include">
+    </item>
+    <item content="#includeディレクティブ">
+    </item>
+    <item content="#line">
+    </item>
+    <item content="#pragma">
+    </item>
+    <item content="#undef">
+    </item>
+    <item content="%">
+    </item>
+    <item content="%=">
+    </item>
+    <item content="&">
+    </item>
+    <item content="&&">
+    </item>
+    <item content="__has_include">
+    </item>
+    <item content="__VA_ARGS__">
+    </item>
+    <item content="__VA_OPT__">
+    </item>
+    <item content="{}">
+    </item>
+    <item content="!">
+    </item>
+    <item content="!=">
+    </item>
+    <item content="&quot;">
+    </item>
+    <item content="'">
+    </item>
+    <item content="()">
+    </item>
+    <item content="**">
+    </item>
+    <item content="*=">
+    </item>
+    <item content="*">
+    </item>
+    <item content="*this">
+    </item>
+    <item content="++">
+    </item>
+    <item content="+=">
+    </item>
+    <item content="+">
+    </item>
+    <item content="-">
+    </item>
+    <item content="|">
+    </item>
+    <item content="||">
+    </item>
+    <item content="-=">
+    </item>
+    <item content="--">
+    </item>
+    <item content=".*">
+    </item>
+    <item content="&lt;&lt;">
+    </item>
+    <item content="&gt;&gt;">
+    </item>
+    <item content="╲">
+    </item>
+    <item content="╲0">
+    </item>
+    <item content="╲n">
+    </item>
+    <item content="╲t">
+    </item>
+    <item content="10進数">
+    </item>
+    <item content="10進数リテラル">
+    </item>
+    <item content="10進浮動小数点数リテラル">
+    </item>
+    <item content="16進数エスケープシーケンス">
+    </item>
+    <item content="16進数リテラル">
+    </item>
+    <item content="1の補数">
+    </item>
+    <item content="2進数">
+    </item>
+    <item content="2進数リテラル">
+    </item>
+    <item content="2の補数">
+    </item>
+    <item content="5原則">
+    </item>
+    <item content="8進数エスケープシーケンス">
+    </item>
+    <item content="8進数リテラル">
+    </item>
+  </list>
+  <list header="A">
+    </item>
+    <item content="abort">
+    </item>
+    <item content="add_lvalue_reference_t">
+    </item>
+    <item content="add_pointer_t&lt;T&gt;">
+    </item>
+    <item content="add_rvalue_reference_t">
+    </item>
+    <item content="all.h">
+    </item>
+    <item content="all_of">
+    </item>
+    <item content="allocate">
+    </item>
+    <item content="allocator">
+    </item>
+    <item content="allocator_traits">
+    </item>
+    <item content="allocator_type">
+    </item>
+    <item content="any_of">
+    </item>
+    <item content="append">
+      <subitem content="イテレーター" />
+    </item>
+    <item content="array">
+      <subitem content="at" />
+      <subitem content="back" />
+      <subitem content="fill" />
+      <subitem content="front" />
+      <subitem content="size" />
+      <subitem content="値を代入" />
+      <subitem content="先頭の要素" />
+      <subitem content="末尾の要素" />
+      <subitem content="要素数" />
+    </item>
+    <item content="array">
+    </item>
+    <item content="ASCII">
+    </item>
+    <item content="ASLR（Address Space Layout Randomization）">
+    </item>
+    <item content="at">
+    </item>
+    <item content="auto">
+    </item>
+  </list>
+  <list header="B">
+    </item>
+    <item content="back">
+    </item>
+    <item content="back_inserter">
+    </item>
+    <item content="bad_alloc">
+    </item>
+    <item content="basic_string">
+      <subitem content="イテレーター" />
+      <subitem content="結合" />
+      <subitem content="検索" />
+      <subitem content="削除" />
+      <subitem content="初期化" />
+      <subitem content="操作" />
+      <subitem content="挿入" />
+      <subitem content="置換" />
+    </item>
+    <item content="basic_string_view">
+      <subitem content="操作" />
+    </item>
+    <item content="begin">
+    </item>
+    <item content="Bernoulli">
+    </item>
+    <item content="bernoulli_distribution">
+    </item>
+    <item content="bidirectional_iterator_tag">
+    </item>
+    <item content="binomial_distribution">
+    </item>
+    <item content="bit_cast">
+    </item>
+    <item content="BMI（Body Mass Index）">
+    </item>
+    <item content="bool型">
+      <subitem content="変換" />
+    </item>
+    <item content="boolalpha">
+    </item>
+    <item content="break文">
+    </item>
+    <item content="byte">
+    </item>
+  </list>
+  <list header="C">
+    </item>
+    <item content="C++">
+      <subitem content="5原則" />
+      <subitem content="オブジェクトファイル" />
+      <subitem content="コンパイル" />
+      <subitem content="実行" />
+      <subitem content="実行可能ファイル" />
+      <subitem content="宣言子" />
+      <subitem content="のソースファイル" />
+      <subitem content="ソースファイル" />
+    </item>
+    <item content="C++コンパイラー">
+    </item>
+    <item content="capacity">
+    </item>
+    <item content="Cardano">
+    </item>
+    <item content="catコマンド">
+    </item>
+    <item content="catch">
+    </item>
+    <item content="cauchy_distribution">
+    </item>
+    <item content="cerr">
+    </item>
+    <item content="char">
+    </item>
+    <item content="char型">
+    </item>
+    <item content="char16_t">
+    </item>
+    <item content="char32_t">
+    </item>
+    <item content="char8_t">
+    </item>
+    <item content="chi_squared_distribution">
+    </item>
+    <item content="cin">
+    </item>
+    <item content="cin_iterator">
+    </item>
+    <item content="Clang（クラン）">
+    </item>
+    <item content="clang++">
+    </item>
+    <item content="class">
+    </item>
+    <item content="clear">
+    </item>
+    <item content="const">
+    </item>
+    <item content="const修飾">
+    </item>
+    <item content="const &">
+    </item>
+    <item content="const char [n]">
+    </item>
+    <item content="const wchar_t [n]">
+    </item>
+    <item content="const_iterator">
+    </item>
+    <item content="construct">
+    </item>
+    <item content="constなイテレーター">
+    </item>
+    <item content="continue文">
+    </item>
+    <item content="copy">
+    </item>
+    <item content="core">
+    </item>
+    <item content="count">
+    </item>
+    <item content="count_if">
+    </item>
+    <item content="cout">
+    </item>
+    <item content="cout_iterator">
+    </item>
+    <item content="curl">
+    </item>
+    <item content="Cプリプロセッサー">
+    </item>
+  </list>
+  <list header="D">
+    </item>
+    <item content="data">
+    </item>
+    <item content="deallocate">
+    </item>
+    <item content="decltype">
+    </item>
+    <item content="decltype(auto)">
+    </item>
+    <item content="default_random_engine">
+    </item>
+    <item content="defined">
+    </item>
+    <item content="delete">
+      <subitem content="式" />
+    </item>
+    <item content="delete[]">
+    </item>
+    <item content="deleted定義">
+    </item>
+    <item content="destroy">
+    </item>
+    <item content="destroy_at">
+    </item>
+    <item content="destroy_until">
+      <subitem content="helphelp" />
+    </item>
+    <item content="difference_type">
+    </item>
+    <item content="digits10">
+    </item>
+    <item content="Dijkstra">
+    </item>
+    <item content="discrete_distribution">
+    </item>
+    <item content="distance">
+    </item>
+    <item content="do文">
+    </item>
+    <item content="double">
+    </item>
+    <item content="double型">
+    </item>
+  </list>
+  <list header="E">
+    </item>
+    <item content="e/E">
+    </item>
+    <item content="else">
+    </item>
+    <item content="empty">
+    </item>
+    <item content="end">
+    </item>
+    <item content="ends_with">
+    </item>
+    <item content="EOF">
+    </item>
+    <item content="epsilon">
+    </item>
+    <item content="equal">
+    </item>
+    <item content="erase">
+    </item>
+    <item content="EXIT_FAILURE">
+    </item>
+    <item content="EXIT_SUCCESS">
+    </item>
+    <item content="explicit">
+    </item>
+    <item content="exponential_distribution">
+    </item>
+    <item content="extern">
+    </item>
+    <item content="extreme_value_distribution">
+    </item>
+  </list>
+  <list header="F">
+    </item>
+    <item content="fail">
+    </item>
+    <item content="false">
+    </item>
+    <item content="f/F">
+    </item>
+    <item content="fill">
+    </item>
+    <item content="find">
+    </item>
+    <item content="find_first_of">
+    </item>
+    <item content="\indexfind_if">
+    </item>
+    <item content="find_if">
+    </item>
+    <item content="Fisher">
+    </item>
+    <item content="fisher_f_distribution">
+    </item>
+    <item content="float">
+    </item>
+    <item content="for文">
+      <subitem content="省略" />
+    </item>
+    <item content="for_each">
+    </item>
+    <item content="forward">
+    </item>
+    <item content="forward_link_list">
+    </item>
+    <item content="free">
+    </item>
+    <item content="friend">
+    </item>
+    <item content="front">
+    </item>
+  </list>
+  <list header="G">
+    </item>
+    <item content="g++">
+    </item>
+    <item content="gamma_distribution">
+    </item>
+    <item content="GC（ガベージコレクション）">
+    </item>
+    <item content="GCC（GNU Compiler Collection）">
+      <subitem content="--pedantic-errors" />
+      <subitem content="-g" />
+      <subitem content="-include" />
+      <subitem content="-o object-file-name" />
+      <subitem content="-std=" />
+      <subitem content="-Wall" />
+      <subitem content="-Wunused-variable" />
+      <subitem content="-x c++-header" />
+      <subitem content="コンパイラーオプション" />
+    </item>
+    <item content="gcc">
+    </item>
+    <item content="GDB">
+      <subitem content="b" />
+      <subitem content="backtrace" />
+      <subitem content="break" />
+      <subitem content="break if" />
+      <subitem content="bt" />
+      <subitem content="c" />
+      <subitem content="continue" />
+      <subitem content="delete" />
+      <subitem content="disable" />
+      <subitem content="enable" />
+      <subitem content="enable count" />
+      <subitem content="enable onece" />
+      <subitem content="finish" />
+      <subitem content="info breakpoints" />
+      <subitem content="list" />
+      <subitem content="next" />
+      <subitem content="print" />
+      <subitem content="run" />
+      <subitem content="s" />
+      <subitem content="step" />
+      <subitem content="シグナル" />
+    </item>
+    <item content="gen">
+    </item>
+    <item content="generate">
+    </item>
+    <item content="geometric_distribution">
+    </item>
+    <item content="get">
+    </item>
+    <item content="glvalue">
+    </item>
+    <item content="GNU Make">
+      <subitem content="Makefile" />
+      <subitem content="事前要件" />
+      <subitem content="ターゲット" />
+      <subitem content="ルール" />
+      <subitem content="レシピ" />
+    </item>
+    <item content="goto文">
+    </item>
+  </list>
+  <list header="H">
+    </item>
+    <item content="hello.cpp">
+    </item>
+  </list>
+  <list header="I">
+    </item>
+    <item content="IEEE 1541">
+    </item>
+    <item content="IEEE 754">
+    </item>
+    <item content="if文">
+    </item>
+    <item content="infinity">
+    </item>
+    <item content="inline">
+    </item>
+    <item content="inline名前空間">
+    </item>
+    <item content="inline namespace">
+    </item>
+    <item content="insert">
+    </item>
+    <item content="int型">
+    </item>
+    <item content="iostream">
+    </item>
+    <item content="iota_iterator">
+    </item>
+    <item content="ISO/IEC 10646">
+    </item>
+    <item content="iterator_category">
+    </item>
+    <item content="iterator_traits">
+    </item>
+  </list>
+  <list header="J">
+    </item>
+    <item content="JIT（Just-In-Time）コンパイル">
+    </item>
+  </list>
+  <list header="L">
+    </item>
+    <item content="L">
+    </item>
+    <item content="ld">
+    </item>
+    <item content="l/L">
+    </item>
+    <item content="ll/LL">
+    </item>
+    <item content="lognormal_distribution">
+    </item>
+    <item content="long double">
+    </item>
+    <item content="long int型">
+    </item>
+    <item content="long long int型">
+    </item>
+    <item content="lsコマンド">
+    </item>
+    <item content="lvalue">
+    </item>
+    <item content="lvalueリファレンス">
+    </item>
+    <item content="lvalueリファレンス型">
+    </item>
+  </list>
+  <list header="M">
+    </item>
+    <item content="main関数">
+    </item>
+    <item content="makeコマンド">
+      <subitem content="clean" />
+      <subitem content="run" />
+    </item>
+    <item content="make_shared">
+    </item>
+    <item content="make_unique">
+    </item>
+    <item content="Makefile">
+      <subitem content=".PHONYターゲット" />
+      <subitem content="#" />
+      <subitem content="$()" />
+      <subitem content="$&lt;" />
+      <subitem content="$@" />
+      <subitem content="$^" />
+      <subitem content="PHONYターゲット" />
+      <subitem content="コメント" />
+      <subitem content="自動変数" />
+      <subitem content="変数" />
+    </item>
+    <item content="malloc">
+      <subitem content="失敗" />
+    </item>
+    <item content="max">
+    </item>
+    <item content="max()">
+    </item>
+    <item content="max_digits10">
+    </item>
+    <item content="memcpy">
+    </item>
+    <item content="min">
+    </item>
+    <item content="min()">
+    </item>
+    <item content="mkdirコマンド">
+    </item>
+    <item content="move">
+      <subitem content="実装" />
+    </item>
+    <item content="mt19937">
+    </item>
+  </list>
+  <list header="N">
+    </item>
+    <item content="namespace">
+    </item>
+    <item content="NaN（Not a Number）">
+    </item>
+    <item content="negative_binomial_distribution">
+    </item>
+    <item content="new">
+      <subitem content="式" />
+      <subitem content="初期化子" />
+      <subitem content="プレイスメント" />
+    </item>
+    <item content="noboolalpha">
+    </item>
+    <item content="none_of">
+    </item>
+    <item content="normal_distribution">
+    </item>
+    <item content="npos">
+    </item>
+    <item content="NULL">
+    </item>
+    <item content="nullptr">
+    </item>
+    <item content="null終端文字列">
+    </item>
+    <item content="nullポインター値">
+    </item>
+    <item content="null文字">
+    </item>
+    <item content="numeric_limits">
+    </item>
+  </list>
+  <list header="O">
+    </item>
+    <item content="ODR（One Definition Rule）">
+    </item>
+    <item content="operator()">
+    </item>
+    <item content="ostream_iterator">
+    </item>
+    <item content="out_of_range">
+    </item>
+  </list>
+  <list header="P">
+    </item>
+    <item content="param">
+    </item>
+    <item content="param_type">
+    </item>
+    <item content="piecewise_constant_distribution">
+    </item>
+    <item content="piecewise_linear_distribution">
+    </item>
+    <item content="pointer">
+    </item>
+    <item content="Poisson">
+    </item>
+    <item content="p/P">
+    </item>
+    <item content="pred">
+    </item>
+    <item content="printfデバッグ">
+    </item>
+    <item content="private">
+    </item>
+    <item content="prvalue">
+    </item>
+    <item content="ptrdiff_t">
+    </item>
+    <item content="public">
+    </item>
+    <item content="push_back">
+    </item>
+  </list>
+  <list header="Q">
+    </item>
+    <item content="quiet_NaN">
+    </item>
+  </list>
+  <list header="R">
+    </item>
+    <item content="R">
+    </item>
+    <item content="random">
+    </item>
+    <item content="random_device">
+    </item>
+    <item content="Range">
+    </item>
+    <item content="rbegin">
+    </item>
+    <item content="reference">
+    </item>
+    <item content="remove">
+    </item>
+    <item content="remove_reference_t">
+    </item>
+    <item content="remove_suffix">
+    </item>
+    <item content="rend">
+    </item>
+    <item content="replace">
+    </item>
+    <item content="reserve">
+    </item>
+    <item content="reserved_last">
+    </item>
+    <item content="reset">
+    </item>
+    <item content="resize">
+    </item>
+    <item content="return文">
+    </item>
+    <item content="return文">
+    </item>
+    <item content="reverse_iterator">
+    </item>
+    <item content="rfind">
+    </item>
+    <item content="rvalue">
+    </item>
+    <item content="rvalueセマンティクス">
+    </item>
+    <item content="rvalueリファレンス">
+      <subitem content="T &&" />
+      <subitem content="宣言" />
+    </item>
+  </list>
+  <list header="S">
+    </item>
+    <item content="s">
+    </item>
+    <item content="scope_exit">
+    </item>
+    <item content="search">
+    </item>
+    <item content="seed_seq">
+    </item>
+    <item content="select_on_container_copy_construction">
+    </item>
+    <item content="shared_ptr">
+      <subitem content="カウンター" />
+    </item>
+    <item content="short int型">
+    </item>
+    <item content="shrink_to_fit">
+    </item>
+    <item content="SI接頭語">
+    </item>
+    <item content="signed char型">
+    </item>
+    <item content="Simula">
+    </item>
+    <item content="size">
+    </item>
+    <item content="size_t型">
+    </item>
+    <item content="size_type">
+    </item>
+    <item content="sizeof">
+    </item>
+    <item content="sizeof演算子">
+    </item>
+    <item content="sizeof(T)">
+    </item>
+    <item content="Spolsky">
+    </item>
+    <item content="starts_with">
+    </item>
+    <item content="static">
+    </item>
+    <item content="static_cast">
+    </item>
+    <item content="std::poisson_distribution">
+    </item>
+    <item content="string">
+    </item>
+    <item content="string型">
+    </item>
+    <item content="strlen">
+    </item>
+    <item content="Stroustrup">
+    </item>
+    <item content="struct">
+    </item>
+    <item content="student_t_distribution">
+    </item>
+    <item content="sv">
+    </item>
+    <item content="swap">
+    </item>
+  </list>
+  <list header="T">
+    </item>
+    <item content="T">
+      <subitem content="const版" />
+      <subitem content="ポインター版" />
+    </item>
+    <item content="T &&">
+    </item>
+    <item content="T *">
+    </item>
+    <item content="template">
+    </item>
+    <item content="terminate">
+    </item>
+    <item content="this">
+    </item>
+    <item content="thisポインター">
+    </item>
+    <item content="throw">
+    </item>
+    <item content="transform">
+    </item>
+    <item content="true">
+    </item>
+    <item content="try">
+      <subitem content="ネスト" />
+    </item>
+    <item content="type&lt;T&gt;">
+    </item>
+    <item content="typedef名">
+    </item>
+    <item content="typename">
+    </item>
+  </list>
+  <list header="U">
+    </item>
+    <item content="u/U">
+    </item>
+    <item content="u8">
+    </item>
+    <item content="UCS（Universal Coded Character Set）">
+    </item>
+    <item content="uintptr_t">
+    </item>
+    <item content="Unicode">
+    </item>
+    <item content="uniform_int_distribution">
+    </item>
+    <item content="uniform_real_distribution">
+    </item>
+    <item content="unique_ptr">
+    </item>
+    <item content="unsigned char型">
+    </item>
+    <item content="unsigned int型">
+    </item>
+    <item content="unsigned long int型">
+    </item>
+    <item content="unsigned long long int型">
+    </item>
+    <item content="unsigned short int型">
+    </item>
+    <item content="usingディレクティブ">
+    </item>
+    <item content="UTF--16">
+    </item>
+    <item content="UTF--32">
+    </item>
+    <item content="UTF--8">
+    </item>
+    <item content="u/U">
+    </item>
+  </list>
+  <list header="V">
+    </item>
+    <item content="value_type">
+    </item>
+    <item content="vector">
+      <subitem content="allocate" />
+      <subitem content="allocator_traits" />
+      <subitem content="at" />
+      <subitem content="capacity" />
+      <subitem content="clear" />
+      <subitem content="construct" />
+      <subitem content="deallocate" />
+      <subitem content="destroy" />
+      <subitem content="destroy_until" />
+      <subitem content="empty" />
+      <subitem content="push_back" />
+      <subitem content="reserve" />
+      <subitem content="reserved_last" />
+      <subitem content="resize" />
+      <subitem content="shrink_to_fit" />
+      <subitem content="size" />
+      <subitem content="T" />
+      <subitem content="コピー" />
+      <subitem content="コピーコンストラクター" />
+      <subitem content="コンストラクター" />
+      <subitem content="デストラクター" />
+      <subitem content="標準出力" />
+      <subitem content="ヘルパー関数" />
+      <subitem content="メモリー確保" />
+      <subitem content="要素" />
+      <subitem content="要素数" />
+      <subitem content="容量確認" />
+      <subitem content="簡易〜" />
+    </item>
+    <item content="VM（Virtual Machine）">
+    </item>
+    <item content="void">
+    </item>
+    <item content="void型">
+    </item>
+    <item content="void *">
+    </item>
+  </list>
+  <list header="W">
+    </item>
+    <item content="Wall">
+    </item>
+    <item content="wchar_t">
+    </item>
+    <item content="weibull_distribution">
+    </item>
+    <item content="what">
+    </item>
+    <item content="while文">
+    </item>
+    <item content="while(true)">
+    </item>
+  </list>
+  <list header="X">
+    </item>
+    <item content="xvalue">
+    </item>
+    <item content="xvalue配列">
+    </item>
+  </list>
+  <list header="あ">
+    </item>
+    <item content="アクセス指定">
+    </item>
+    <item content="値カテゴリー">
+    </item>
+    <item content="アドレス">
+    </item>
+    <item content="アルゴリズム">
+    </item>
+    <item content="アロケーター">
+    </item>
+    <item content="暗黙の型変換">
+    </item>
+  </list>
+  <list header="い">
+    </item>
+    <item content="依存関係">
+    </item>
+    <item content="一様分布">
+      <subitem content="整数" />
+      <subitem content="浮動小数点数" />
+    </item>
+    <item content="イテレーター">
+      <subitem content="*" />
+      <subitem content="++" />
+      <subitem content="--" />
+      <subitem content="advance" />
+      <subitem content="const_iterator" />
+      <subitem content="constな〜" />
+      <subitem content="distance" />
+      <subitem content="next" />
+      <subitem content="prev" />
+      <subitem content="移動" />
+      <subitem content="カテゴリー" />
+      <subitem content="逆順" />
+      <subitem content="距離" />
+      <subitem content="参照" />
+      <subitem content="出力〜" />
+      <subitem content="取得" />
+      <subitem content="前方〜" />
+      <subitem content="操作" />
+      <subitem content="双方向〜" />
+      <subitem content="大小比較" />
+      <subitem content="同値比較" />
+      <subitem content="入力〜" />
+      <subitem content="範囲" />
+      <subitem content="汎用性" />
+      <subitem content="比較" />
+      <subitem content="ランダムアクセス〜" />
+      <subitem content="リバース〜" />
+    </item>
+    <item content="意味エラー">
+    </item>
+    <item content="インクリメント">
+    </item>
+    <item content="インクリメント演算子">
+    </item>
+    <item content="インクルードガード">
+    </item>
+    <item content="インタープリター形式">
+    </item>
+    <item content="インデックス">
+    </item>
+    <item content="インデックスループ">
+    </item>
+    <item content="インライン関数">
+    </item>
+    <item content="インライン変数">
+    </item>
+  </list>
+  <list header="う">
+    </item>
+    <item content="ウェイブル分布">
+    </item>
+    <item content="ウォッチポイント">
+    </item>
+    <item content="右辺値">
+    </item>
+  </list>
+  <list header="え">
+    </item>
+    <item content="エイリアス宣言">
+    </item>
+    <item content="エイリアステンプレート">
+    </item>
+    <item content="エスケープシーケンス">
+      <subitem content="16進数〜" />
+      <subitem content="8進数〜" />
+    </item>
+    <item content="エラー処理">
+    </item>
+    <item content="エラーチェック">
+    </item>
+    <item content="エラーメッセージ">
+    </item>
+    <item content="演算子">
+      <subitem content="インクリメント〜" />
+      <subitem content="オーバーロード" />
+      <subitem content="後置〜" />
+      <subitem content="前置〜" />
+      <subitem content="単項〜" />
+      <subitem content="デクリメント〜" />
+      <subitem content="二項〜" />
+      <subitem content="複合代入〜" />
+    </item>
+    <item content="エンディアン">
+    </item>
+  </list>
+  <list header="お">
+    </item>
+    <item content="オーバーラップ">
+    </item>
+    <item content="オーバーロード">
+    </item>
+    <item content="オブジェクト">
+    </item>
+    <item content="オブジェクト指向プログラミング">
+    </item>
+    <item content="オブジェクトファイル">
+    </item>
+    <item content="オブジェクト風マクロ">
+    </item>
+    <item content="オペランド">
+    </item>
+  </list>
+  <list header="か">
+    </item>
+    <item content="改行文字">
+    </item>
+    <item content="カイ二乗分布">
+    </item>
+    <item content="下位バイト">
+    </item>
+    <item content="仮数">
+    </item>
+    <item content="型">
+      <subitem content="void" />
+      <subitem content="変換" />
+      <subitem content="ユーザー定義された〜" />
+    </item>
+    <item content="型名">
+      <subitem content="typedef名" />
+      <subitem content="エイリアス宣言" />
+      <subitem content="ネストされた〜" />
+      <subitem content="別名" />
+    </item>
+    <item content="かつ">
+    </item>
+    <item content="可変長引数マクロ">
+    </item>
+    <item content="仮引数">
+    </item>
+    <item content="簡易vector">
+      <subitem content="begin" />
+      <subitem content="cbegin" />
+      <subitem content="cend" />
+      <subitem content="crbegin" />
+      <subitem content="crend" />
+      <subitem content="end" />
+      <subitem content="rbegin" />
+      <subitem content="rend" />
+      <subitem content="イテレーター" />
+      <subitem content="データメンバー" />
+      <subitem content="メンバー関数" />
+      <subitem content="[]" />
+      <subitem content="at" />
+      <subitem content="back" />
+      <subitem content="data" />
+      <subitem content="front" />
+      <subitem content="要素アクセス" />
+    </item>
+    <item content="関数">
+      <subitem content="型" />
+      <subitem content="仮引数" />
+      <subitem content="実引数" />
+      <subitem content="宣言" />
+      <subitem content="定義" />
+      <subitem content="デフォルト実引数" />
+      <subitem content="引数" />
+      <subitem content="〜へのポインター" />
+    </item>
+    <item content="関数テンプレート">
+    </item>
+    <item content="関数風マクロ">
+    </item>
+    <item content="ガンマ分布">
+    </item>
+  </list>
+  <list header="き">
+    </item>
+    <item content="偽">
+    </item>
+    <item content="記憶領域">
+    </item>
+    <item content="ギガ">
+    </item>
+    <item content="幾何分布">
+    </item>
+    <item content="擬似乱数">
+    </item>
+    <item content="キビバイト">
+    </item>
+    <item content="基本実行文字セット">
+    </item>
+    <item content="基本ソース文字セット">
+    </item>
+    <item content="キャッチポイント">
+    </item>
+    <item content="キャプチャー">
+    </item>
+    <item content="行列クラス">
+    </item>
+    <item content="極値分布">
+    </item>
+    <item content="キロ">
+    </item>
+    <item content="キロバイト">
+    </item>
+    <item content="キーワード">
+    </item>
+  </list>
+  <list header="く">
+    </item>
+    <item content="区切り文字">
+    </item>
+    <item content="区分線形分布">
+    </item>
+    <item content="区分定数分布">
+    </item>
+    <item content="クラス">
+      <subitem content="::" />
+      <subitem content="const修飾" />
+      <subitem content="static" />
+      <subitem content="struct" />
+      <subitem content="アクセス指定" />
+      <subitem content="値の構築" />
+      <subitem content="行列〜" />
+      <subitem content="コピー" />
+      <subitem content="コピーコンストラクター" />
+      <subitem content="コンストラクター" />
+      <subitem content="初期化" />
+      <subitem content="所有" />
+      <subitem content="数値計算〜" />
+      <subitem content="宣言" />
+      <subitem content="定義" />
+      <subitem content="デストラクタ" />
+      <subitem content="データメンバー" />
+      <subitem content="破棄" />
+      <subitem content="普通の型" />
+      <subitem content="〜へのポインター" />
+      <subitem content="変数" />
+      <subitem content="メンバー関数" />
+    </item>
+    <item content="クラススコープ">
+    </item>
+    <item content="クラステンプレート">
+    </item>
+    <item content="クラス名">
+    </item>
+    <item content="グローバル名前空間">
+    </item>
+  </list>
+  <list header="け">
+    </item>
+    <item content="警告メッセージ">
+    </item>
+  </list>
+  <list header="こ">
+    </item>
+    <item content="コアダンプ">
+    </item>
+    <item content="構造化プログラミング">
+    </item>
+    <item content="後置演算子">
+    </item>
+    <item content="国際標準規格">
+    </item>
+    <item content="コーシー分布">
+    </item>
+    <item content="コードポイント">
+    </item>
+    <item content="コピー">
+      <subitem content="vectorの〜" />
+      <subitem content="禁止" />
+      <subitem content="構築" />
+      <subitem content="〜先" />
+      <subitem content="代入" />
+      <subitem content="デフォルトの〜" />
+      <subitem content="〜元" />
+    </item>
+    <item content="コピーキャプチャー">
+    </item>
+    <item content="コピーコンストラクター">
+    </item>
+    <item content="コピー代入演算子">
+    </item>
+    <item content="コメント">
+    </item>
+    <item content="コンストラクター">
+      <subitem content="コピー〜" />
+      <subitem content="初期化" />
+      <subitem content="デフォルト実引数" />
+      <subitem content="デリゲート〜" />
+      <subitem content="引数" />
+      <subitem content="変換〜" />
+      <subitem content="戻り値" />
+    </item>
+    <item content="コンパイラー">
+    </item>
+    <item content="コンパイル">
+    </item>
+    <item content="コンパイルエラー">
+    </item>
+    <item content="コンパイル済みヘッダー">
+    </item>
+    <item content="コンパイルメッセージ">
+    </item>
+  </list>
+  <list header="さ">
+    </item>
+    <item content="再帰">
+    </item>
+    <item content="再帰関数">
+    </item>
+    <item content="末尾再帰">
+    </item>
+    <item content="左辺値">
+    </item>
+    <item content="サロゲートペア">
+    </item>
+    <item content="参照">
+    </item>
+    <item content="サンプリング分布">
+    </item>
+  </list>
+  <list header="し">
+    </item>
+    <item content="式">
+    </item>
+    <item content="式文">
+    </item>
+    <item content="識別子">
+    </item>
+    <item content="シグナル">
+    </item>
+    <item content="指数">
+    </item>
+    <item content="指数分布">
+    </item>
+    <item content="四則演算">
+    </item>
+    <item content="実行可能ファイル">
+    </item>
+    <item content="実引数">
+    </item>
+    <item content="シード">
+    </item>
+    <item content="終了条件付きループ">
+    </item>
+    <item content="出力イテレーター">
+    </item>
+    <item content="上位バイト">
+    </item>
+    <item content="条件">
+    </item>
+    <item content="条件式">
+    </item>
+    <item content="条件付きコンパイル">
+    </item>
+    <item content="条件分岐">
+    </item>
+    <item content="情報の単位">
+    </item>
+    <item content="剰余">
+    </item>
+    <item content="初期化">
+    </item>
+    <item content="所有">
+    </item>
+    <item content="真">
+    </item>
+  </list>
+  <list header="す">
+    </item>
+    <item content="数値区切り">
+    </item>
+    <item content="数値計算クラス">
+    </item>
+    <item content="スコープ">
+    </item>
+    <item content="スコープ">
+    </item>
+    <item content="スタック">
+    </item>
+    <item content="スタックアンワインディング">
+    </item>
+    <item content="スチューデントのt分布">
+    </item>
+    <item content="ストレージ">
+    </item>
+    <item content="スマートポインター">
+    </item>
+  </list>
+  <list header="せ">
+    </item>
+    <item content="正規分布">
+    </item>
+    <item content="整数">
+      <subitem content="1の補数" />
+      <subitem content="2の補数" />
+      <subitem content="仕組み" />
+      <subitem content="符号付き〜" />
+      <subitem content="符号なし〜" />
+      <subitem content="符号ビット" />
+    </item>
+    <item content="整数型">
+      <subitem content="最小値" />
+      <subitem content="サイズ" />
+      <subitem content="最大値" />
+      <subitem content="変換" />
+    </item>
+    <item content="整数リテラル">
+      <subitem content="10進数〜" />
+      <subitem content="16進数〜" />
+      <subitem content="2進数〜" />
+      <subitem content="8進数〜" />
+      <subitem content="数値区切り" />
+    </item>
+    <item content="セミコロン">
+    </item>
+    <item content="ゼロオーバーヘッド">
+    </item>
+    <item content="線形合同法">
+    </item>
+    <item content="宣言">
+    </item>
+    <item content="宣言子">
+    </item>
+    <item content="選択ソート">
+    </item>
+    <item content="前置演算子">
+    </item>
+    <item content="前方イテレーター">
+    </item>
+  </list>
+  <list header="そ">
+    </item>
+    <item content="双方向イテレーター">
+    </item>
+    <item content="添字">
+    </item>
+    <item content="束縛">
+    </item>
+    <item content="ソースファイル">
+      <subitem content="単一の〜" />
+      <subitem content="複数の〜" />
+    </item>
+    <item content="ソート">
+    </item>
+  </list>
+  <list header="た">
+    </item>
+    <item content="対数正規分布">
+    </item>
+    <item content="代入">
+    </item>
+    <item content="代入演算子">
+    </item>
+    <item content="タブ文字">
+    </item>
+    <item content="単一定義原則">
+    </item>
+    <item content="単項演算子">
+    </item>
+    <item content="短絡評価">
+    </item>
+  </list>
+  <list header="ち">
+    </item>
+    <item content="逐次実行">
+    </item>
+    <item content="直接マッピング">
+    </item>
+  </list>
+  <list header="て">
+    </item>
+    <item content="定義">
+    </item>
+    <item content="定義済みマクロ名">
+    </item>
+    <item content="デクリメント">
+    </item>
+    <item content="デクリメント演算子">
+    </item>
+    <item content="デストラクタ">
+    </item>
+    <item content="デストラクター">
+      <subitem content="戻り値" />
+      <subitem content="へのポインター" />
+    </item>
+    <item content="データメンバー">
+    </item>
+    <item content="デバッガー">
+    </item>
+    <item content="デバッグ">
+      <subitem content="printf" />
+    </item>
+    <item content="デフォルト実引数">
+    </item>
+    <item content="テラ">
+    </item>
+    <item content="デリゲートコンストラクター">
+    </item>
+    <item content="テンプレート">
+      <subitem content="エイリアス〜" />
+      <subitem content="関数〜" />
+      <subitem content="クラス〜" />
+      <subitem content="引数" />
+      <subitem content="フォワードリファレンス" />
+    </item>
+    <item content="テンプレート引数">
+    </item>
+  </list>
+  <list header="と">
+    </item>
+    <item content="同値比較">
+    </item>
+    <item content="動的メモリー確保">
+    </item>
+    <item content="独立した試行">
+    </item>
+    <item content="トークン">
+    </item>
+  </list>
+  <list header="な">
+    </item>
+    <item content="名前">
+      <subitem content="型名" />
+      <subitem content="宣言" />
+      <subitem content="定義" />
+    </item>
+    <item content="名前空間">
+      <subitem content="inline" />
+      <subitem content="省略" />
+      <subitem content="ネスト" />
+      <subitem content="別名" />
+    </item>
+    <item content="名前空間エイリアス">
+    </item>
+    <item content="生文字列リテラル">
+    </item>
+  </list>
+  <list header="に">
+    </item>
+    <item content="二項演算子">
+      <subitem content="ムーブしない〜" />
+      <subitem content="ムーブする〜" />
+    </item>
+    <item content="二項分布">
+    </item>
+    <item content="入力イテレーター">
+      <subitem content="終了条件" />
+      <subitem content="同値比較" />
+    </item>
+  </list>
+  <list header="は">
+    </item>
+    <item content="バイト">
+      <subitem content="下位〜" />
+      <subitem content="上位〜" />
+    </item>
+    <item content="パイプ">
+      <subitem content="|" />
+    </item>
+    <item content="配列">
+      <subitem content="[]" />
+      <subitem content="sizeof" />
+      <subitem content="型" />
+      <subitem content="構築" />
+      <subitem content="サイズ" />
+      <subitem content="初期化" />
+      <subitem content="動的確保" />
+      <subitem content="破棄" />
+      <subitem content="〜へのポインター" />
+      <subitem content="メモリー上での表現" />
+      <subitem content="要素" />
+    </item>
+    <item content="バグ">
+    </item>
+    <item content="バックスラッシュ">
+    </item>
+    <item content="半閉鎖">
+    </item>
+  </list>
+  <list header="ひ">
+    </item>
+    <item content="比較演算子">
+    </item>
+    <item content="引数">
+    </item>
+    <item content="引数リスト">
+    </item>
+    <item content="ビッグエンディアン">
+    </item>
+    <item content="ビット">
+    </item>
+    <item content="標準出力">
+    </item>
+    <item content="標準入力">
+    </item>
+  </list>
+  <list header="ふ">
+    </item>
+    <item content="フィッシャーのF分布">
+    </item>
+    <item content="フォワーディングリファレンス">
+    </item>
+    <item content="フォワードリファレンス">
+    </item>
+    <item content="不完全型">
+    </item>
+    <item content="複合代入演算子">
+    </item>
+    <item content="複合文">
+    </item>
+    <item content="符号付き整数">
+    </item>
+    <item content="符号付き整数型">
+    </item>
+    <item content="符号なし整数">
+    </item>
+    <item content="符号なし整数型">
+    </item>
+    <item content="符号ビット">
+    </item>
+    <item content="普通の型">
+    </item>
+    <item content="浮動小数点数">
+      <subitem content="変換" />
+      <subitem content="有効桁数" />
+    </item>
+    <item content="浮動小数点数型">
+    </item>
+    <item content="浮動小数点数リテラル">
+      <subitem content="10進浮動小数点数〜" />
+    </item>
+    <item content="負の二項分布">
+    </item>
+    <item content="プリプロセッサー">
+      <subitem content="定数式" />
+    </item>
+    <item content="プリプロセッシングディレクティブ">
+    </item>
+    <item content="ブレイクポイント">
+    </item>
+    <item content="プログラマーの三大美徳">
+    </item>
+    <item content="ブロックスコープ">
+    </item>
+    <item content="文">
+    </item>
+    <item content="分割コンパイル">
+    </item>
+    <item content="分布クラス">
+      <subitem content="リセット" />
+    </item>
+    <item content="文法エラー">
+    </item>
+    <item content="文末">
+    </item>
+  </list>
+  <list header="へ">
+    </item>
+    <item content="閉鎖">
+    </item>
+    <item content="ヘッダーファイル">
+      <subitem content="コンパイル済みヘッダー" />
+    </item>
+    <item content="ベルヌーイ試行">
+    </item>
+    <item content="ベルヌーイ分布">
+    </item>
+    <item content="ヘルパー関数">
+    </item>
+    <item content="変換コンストラクター">
+    </item>
+    <item content="変数">
+      <subitem content="型" />
+      <subitem content="サイズ" />
+      <subitem content="寿命" />
+      <subitem content="初期化" />
+      <subitem content="宣言" />
+    </item>
+    <item content="変数名">
+    </item>
+  </list>
+  <list header="ほ">
+    </item>
+    <item content="ポアソン分布">
+    </item>
+    <item content="ポインター">
+      <subitem content="*" />
+      <subitem content="&" />
+      <subitem content="**" />
+      <subitem content="this" />
+      <subitem content="値" />
+      <subitem content="意味上の〜" />
+      <subitem content="加減算" />
+      <subitem content="型" />
+      <subitem content="型変換" />
+      <subitem content="関数への〜" />
+      <subitem content="クラスへの〜" />
+      <subitem content="サイズ" />
+      <subitem content="初期化" />
+      <subitem content="スマート〜" />
+      <subitem content="代入" />
+      <subitem content="内部実装" />
+      <subitem content="配列への〜" />
+      <subitem content="文法上の〜" />
+      <subitem content="〜へのポインター" />
+      <subitem content="〜へのポインターへのポインター" />
+      <subitem content="ポインター型" />
+      <subitem content="未定義" />
+      <subitem content="メンバーへの〜" />
+      <subitem content="リファレンス型" />
+    </item>
+    <item content="ポインター型">
+    </item>
+    <item content="翻訳単位">
+    </item>
+  </list>
+  <list header="ま">
+    </item>
+    <item content="マルチパス保証">
+    </item>
+  </list>
+  <list header="み">
+    </item>
+    <item content="未定義">
+    </item>
+  </list>
+  <list header="む">
+    </item>
+    <item content="無限ループ">
+    </item>
+    <item content="ムーブ">
+      <subitem content="構築" />
+      <subitem content="〜先" />
+      <subitem content="実装" />
+      <subitem content="代入" />
+      <subitem content="デフォルトの〜" />
+      <subitem content="〜元" />
+    </item>
+    <item content="ムーブコンストラクター">
+    </item>
+    <item content="ムーブ代入演算子">
+    </item>
+  </list>
+  <list header="め">
+    </item>
+    <item content="メガ">
+    </item>
+    <item content="メモリー">
+      <subitem content="解放" />
+      <subitem content="確保" />
+      <subitem content="確保失敗" />
+      <subitem content="動的〜確保" />
+    </item>
+    <item content="メモリー確保">
+    </item>
+    <item content="メルセンヌツイスター">
+      <subitem content="ポインター" />
+    </item>
+    <item content="メンバー関数">
+      <subitem content="const修飾" />
+    </item>
+  </list>
+  <list header="も">
+    </item>
+    <item content="もしくは">
+    </item>
+    <item content="文字の表現">
+    </item>
+    <item content="文字リテラル">
+    </item>
+    <item content="文字列">
+      <subitem content="s" />
+      <subitem content="結合" />
+      <subitem content="サイズ" />
+      <subitem content="操作" />
+      <subitem content="表現" />
+    </item>
+    <item content="文字列型">
+    </item>
+    <item content="文字列リテラル">
+    </item>
+  </list>
+  <list header="ゆ">
+    </item>
+    <item content="有効桁数">
+    </item>
+    <item content="ユーザー定義された型">
+    </item>
+    <item content="ユーザー定義リテラル">
+    </item>
+    <item content="ユニバーサルキャラクター名">
+    </item>
+  </list>
+  <list header="ら">
+    </item>
+    <item content="ラムダ式">
+      <subitem content="[=]" />
+      <subitem content="[&]" />
+      <subitem content="キャプチャー" />
+      <subitem content="コピーキャプチャー" />
+      <subitem content="引数リスト" />
+      <subitem content="複合文" />
+      <subitem content="文末" />
+      <subitem content="リファレンスキャプチャー" />
+    </item>
+    <item content="乱数">
+      <subitem content="擬似〜" />
+      <subitem content="シード" />
+      <subitem content="予測不可能な〜" />
+    </item>
+    <item content="乱数エンジン">
+      <subitem content="default_random_engine" />
+      <subitem content="mt19937" />
+      <subitem content="random_device" />
+      <subitem content="メルセンヌツイスター" />
+    </item>
+    <item content="乱数分布">
+      <subitem content="一様分布" />
+      <subitem content="ウェイブル分布" />
+      <subitem content="カイ二乗分布" />
+      <subitem content="ガンマ分布" />
+      <subitem content="幾何分布" />
+      <subitem content="極値分布" />
+      <subitem content="区分線形分布" />
+      <subitem content="区分定数分布" />
+      <subitem content="コーシー分布" />
+      <subitem content="サンプリング分布" />
+      <subitem content="指数分布" />
+      <subitem content="スチューデントのt分布" />
+      <subitem content="正規分布" />
+      <subitem content="対数正規分布" />
+      <subitem content="二項分布" />
+      <subitem content="フィッシャーのF分布" />
+      <subitem content="負の二項分布" />
+      <subitem content="ベルヌーイ分布" />
+      <subitem content="ポアソン分布" />
+      <subitem content="離散分布" />
+    </item>
+    <item content="乱数分布ライブラリ">
+    </item>
+    <item content="ランダムアクセス">
+    </item>
+    <item content="ランダムアクセスイテレーター">
+      <subitem content="大小比較" />
+    </item>
+  </list>
+  <list header="り">
+    </item>
+    <item content="離散分布">
+    </item>
+    <item content="リダイレクト">
+      <subitem content="&lt;" />
+      <subitem content="&gt;" />
+    </item>
+    <item content="リテラル">
+      <subitem content="生文字列〜" />
+      <subitem content="文字〜" />
+      <subitem content="文字列〜" />
+      <subitem content="ユニバーサルキャラクター名" />
+    </item>
+    <item content="リトルエンディアン">
+    </item>
+    <item content="リバースイテレーター">
+    </item>
+    <item content="リファレンス">
+    </item>
+    <item content="リファレンス型">
+    </item>
+    <item content="リファレンスキャプチャー">
+    </item>
+    <item content="リファレンス修飾">
+    </item>
+    <item content="リファレンス修飾子">
+    </item>
+    <item content="リンカー">
+    </item>
+  </list>
+  <list header="る">
+    </item>
+    <item content="ループ">
+      <subitem content="break文" />
+      <subitem content="continue文" />
+      <subitem content="do文" />
+      <subitem content="for文" />
+      <subitem content="goto文" />
+      <subitem content="while文" />
+      <subitem content="インデックス〜" />
+      <subitem content="打ち切り" />
+      <subitem content="再帰関数" />
+      <subitem content="終了条件付き〜" />
+      <subitem content="脱出" />
+      <subitem content="無限〜" />
+    </item>
+  </list>
+  <list header="れ">
+    </item>
+    <item content="例外">
+      <subitem content="キャッチ" />
+      <subitem content="スタックアンワインディング" />
+      <subitem content="巻き戻し" />
+    </item>
+  </list>
+  <list header="ろ">
+    </item>
+    <item content="論理積">
+    </item>
+    <item content="論理否定">
+    </item>
+    <item content="論理和">
+    </item>
+  </list>
+  <list header="わ">
+    </item>
+    <item content="ワイド文字">
+    </item>
+  </list>
+</root>

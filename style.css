@@ -24,4 +24,9 @@ table, th, td {
     border-collapse: collapse;
     padding : 0.5em ;
 }
+
+img {
+    width: 80vw;
+    height: auto;
+}
 </style>
