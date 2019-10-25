@@ -6,8 +6,6 @@
 
 江添氏はそんなことを言っていますが、実際には既に出版されています。
 
-ただし、*.mdファイルは主に画像周りに「TODO」が含まれていたり若干不完全です。
-
 GitHub Pagesでの閲覧
 
 <https://ezoeryou.github.io/cpp-intro/>
